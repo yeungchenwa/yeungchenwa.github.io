@@ -8,50 +8,55 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-family: 'Times New Roman'">I'm a second-year Master student from <a href="https://github.com/HCIILAB" style="text-decoration:none;">SCUT-DLVCLab</a> in South China University of Technology, supervised by Prof. <a href="http://www.dlvc-lab.net/lianwen/Index.html" style="text-decoration:none;">Lianwen Jin</a>.</span>
+<style>
+body, h1, h2, h3, h4, h5, h6 {
+  font-family: 'Times New Roman', Times, serif;
+}
+</style>
 
-<span style="font-family: 'Times New Roman'">My research interests are</span>
+I'm a second-year Master student from <a href="https://github.com/HCIILAB" style="text-decoration:none;">SCUT-DLVCLab</a> in South China University of Technology, supervised by Prof. <a href="http://www.dlvc-lab.net/lianwen/Index.html" style="text-decoration:none;">Lianwen Jin</a>.
 
-<span style="font-family: 'Times New Roman'">News</span>
+My research interests are
+
+News
 -----
 ∙ [12/2023] paper <br />
 ∙ [04/2023] project<br />
 
-
-<span style="font-family: 'Times New Roman'">Education</span>
+Education
 -----
 <img style="float: left; margin:5px 10px" src="../images/SCUT_logo.JPG" width="80" height="80">
-### <span style="font-family: 'Times New Roman'">South China University of Technology</span>
+### South China University of Technology
 <p>
 <font size="2">
-<span style="font-family: 'Times New Roman'">Sep. 2022 - Present</span><br />
-<span style="font-family: 'Times New Roman'">MS. student at SCUT-DLVCLab (Major)</span><br />
+Sep. 2022 - Present<br />
+MS. student at SCUT-DLVCLab (Major)<br />
 </font>
 </p>
 
 <img style="float: left; margin:5px 10px" src="../images/SCUT_logo.JPG" width="80" height="80">
-### <span style="font-family: 'Times New Roman'">South China University of Technology</span>
+### South China University of Technology
 <p>
 <font size="2">
-<span style="font-family: 'Times New Roman'">Sep. 2018 - Jun. 2022 </span><br />
-<span style="font-family: 'Times New Roman'">B. student at SCUT-DLVCLab (Major)</span><br />
+Sep. 2018 - Jun. 2022 <br />
+B. student at SCUT-DLVCLab (Major)<br />
 </font>
 </p>
 
-<span style="font-family: 'Times New Roman'">Publications</span>
+Publications
 -----
 
-<span style="font-family: 'Times New Roman'">Projects</span>
+Projects
 -----
 
-<span style="font-family: 'Times New Roman'">Award</span>
------
-...
-
-<span style="font-family: 'Times New Roman'">Blogs</span>
+Award
 -----
 ...
 
-<span style="font-family: 'Times New Roman'">Mics</span>
+Blogs
+-----
+...
+
+Mics
 -----
 ...
