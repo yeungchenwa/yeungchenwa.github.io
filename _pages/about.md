@@ -21,7 +21,8 @@ My research interests are focused on diffusion model, image generation, low-leve
 <p align="center">
 <a href='https://github.com/yeungchenwa'>GitHub</a> / 
 <a href='https://scholar.google.com/citations?hl=zh-CN&user=2ITs6lUAAAAJ'>Google Scholar</a> / 
-<a href='eezhyang@gmail.com'>Email</a>
+<a href='eezhyang@gmail.com'>Email</a> / 
+<a href='https://www.zhihu.com/people/young-40-31'>Zhihu</a>
 </p>
 
 News
@@ -140,4 +141,9 @@ Mics
 **Hobby**: Love a lot of sports, like Fishing🎣, Swimming🏊‍♂️, Riding Car🚲, Table tennis🎱🏓, Ball🏀⚽️, Badminton🏸 and Singing🎤. I am learning to play the piano🎹 currently.  
 **Game Award**: Our college team won the first-place in campus basketball games🏀🏆 twice when I was an undergradauate, spending the wonderfull time in my life.  
 **Languange**: Chinese, English, Cantonese, and Hakka.  
-**Habit**: A heavy coffee drinker ☕️~
+**Habit**: A heavy coffee drinker ☕️~  
+
+<table style="width: 50%; max-width: 600px" align="center" border="0" cellpadding="20">
+    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=TuVRvKdiJmKZ6t0SuQ7FsO2avdiz4cQm8yys_lX28-Q&cl=ffffff&w=a"></script>
+    <!-- <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=W6xsx5HPxNJXa7j8kFXnCZ9IPsDYpfC2Dq33fbsee5Q"></script> -->
+</table>
