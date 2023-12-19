@@ -59,7 +59,7 @@ Publications
 ### FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning
 <p style="line-height:1.1">
 <font size="2">
-<strong>Zhenhua Yang*</strong>, <a href="https://scholar.google.com/citations?user=6zNgcjAAAAAJ&hl=zh-CN&oi=ao" style="text-decoration:none;">Dezhi Peng</a>, Yuxin Kong, Yuyi Zhang, <a href="https://scholar.google.com/citations?user=IpmnLFcAAAAJ&hl=zh-CN&oi=ao" style="text-decoration:none;">Cong Yao</a>, <a href="http://www.dlvc-lab.net/lianwen/Index.html" style="text-decoration:none;">Lianwen Jin</a>†<br />
+<strong>Zhenhua Yang</strong>, <a href="https://scholar.google.com/citations?user=6zNgcjAAAAAJ&hl=zh-CN&oi=ao" style="text-decoration:none;">Dezhi Peng</a>, Yuxin Kong, Yuyi Zhang, <a href="https://scholar.google.com/citations?user=IpmnLFcAAAAJ&hl=zh-CN&oi=ao" style="text-decoration:none;">Cong Yao</a>, <a href="http://www.dlvc-lab.net/lianwen/Index.html" style="text-decoration:none;">Lianwen Jin</a>†<br />
 Proceedings of the AAAI conference on artificial intelligence (<strong>AAAI</strong>), 2024<br />
 <a href='http://yeungchenwa.github.io'><img src='https://img.shields.io/badge/paper-9cf'></a>
 <a href='https://yeungchenwa.github.io/fontdiffuser-homepage/'><img src='https://img.shields.io/badge/project-green'></a>
