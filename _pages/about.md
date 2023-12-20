@@ -27,8 +27,8 @@ My research interests are focused on diffusion model, image generation, low-leve
 
 News
 -----
-∙ **[12/2023]** 🔥🔥🔥 The 📺<a href="https://huggingface.co/spaces/yeungchenwa/FontDiffuser-Gradio" style="text-decoration:none;">Hugging Face Demo</a> and the 🧑‍💻<a href="https://github.com/yeungchenwa/FontDiffuser" style="text-decoration:none;">Github Repsitory</a> of <strong>FontDiffuser</strong> is released!  
-∙ **[12/2023]** 🎉 The paper <a href="http://zhenhuayang.github.io" style="text-decoration:none;">FontDiffuser</a> is accepted by <strong>AAAI2024</strong>, which excels in complex character generation and large style variation. The code and demo will be released soon.<br />
+∙ **[12/2023]** 🔥🔥🔥 The 📺<a href="https://huggingface.co/spaces/yeungchenwa/FontDiffuser-Gradio" style="text-decoration:none;">Hugging Face Demo</a> and the 🧑‍💻<a href="https://github.com/yeungchenwa/FontDiffuser" style="text-decoration:none;">Github Repsitory</a> of <strong><a href='https://arxiv.org/abs/2312.12142'>FontDiffuser</a></strong> is released! Welcome to check it out.  
+∙ **[12/2023]** 🎉 The paper <a href="https://arxiv.org/abs/2312.12142" style="text-decoration:none;">FontDiffuser</a> is accepted by <strong>AAAI2024</strong>, which excels in complex character generation and large style variation. The code and demo will be released soon.<br />
 ∙ **[12/2023]** The paper <a href="https://arxiv.org/abs/2312.02694" style="text-decoration:none;">UPOCR</a> is released to arXiv, related to the unifying pixel-level OCR tasks.<br />
 ∙ **[12/2023]** 🔥 Glad to see anyones!
 
@@ -61,7 +61,7 @@ Publications
 <font size="2">
 <strong>Zhenhua Yang</strong>, <a href="https://scholar.google.com/citations?user=6zNgcjAAAAAJ&hl=zh-CN&oi=ao" style="text-decoration:none;">Dezhi Peng</a>, Yuxin Kong, Yuyi Zhang, <a href="https://scholar.google.com/citations?user=IpmnLFcAAAAJ&hl=zh-CN&oi=ao" style="text-decoration:none;">Cong Yao</a>, <a href="http://www.dlvc-lab.net/lianwen/Index.html" style="text-decoration:none;">Lianwen Jin</a>†<br />
 Proceedings of the AAAI conference on artificial intelligence (<strong>AAAI</strong>), 2024<br />
-<a href='http://yeungchenwa.github.io'><img src='https://img.shields.io/badge/paper-9cf'></a>
+<a href='https://arxiv.org/abs/2312.12142'><img src='https://img.shields.io/badge/paper-9cf'></a>
 <a href='https://yeungchenwa.github.io/fontdiffuser-homepage/'><img src='https://img.shields.io/badge/project-green'></a>
 <a href='https://github.com/yeungchenwa/FontDiffuser'><img src='https://img.shields.io/github/stars/yeungchenwa/FontDiffuser.svg?style=social&label=Star'></a>
 <a href='https://huggingface.co/spaces/yeungchenwa/FontDiffuser-Gradio'><img src='https://img.shields.io/badge/demo-purple'></a>
