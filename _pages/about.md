@@ -14,7 +14,7 @@ body, h1, h2, h3, h4, h5, h6 {
 }
 </style>
 
-My name is Zhenhua Yang (杨振华, Yeung Chenwa), I'm a second-year Master student from <a href="https://github.com/HCIILAB" style="text-decoration:none;">SCUT-DLVCLab</a> in <a href="https://www.scut.edu.cn/new/" style="text-decoration:none;">South China University of Technology</a>, <a href="https://www2.scut.edu.cn/ee/" style="text-decoration:none;">School of Electronic and Information Engineering</a>, supervised by <a href="http://www.dlvc-lab.net/lianwen/Index.html" style="text-decoration:none;">Prof. Lianwen Jin</a>. I recieve my Bachelor degree from <a href="https://www.scut.edu.cn/new/" style="text-decoration:none;">SCUT</a>, <a href="https://www2.scut.edu.cn/automation/" style="text-decoration:none;">School of Automation Science and Engineering</a>, a wonderfull four years. 
+My name is Zhenhua Yang (杨振华, Yeung Chenwa), I'm a second-year Master student from <a href="https://github.com/HCIILAB" style="text-decoration:none;">SCUT-DLVCLab</a> in <a href="https://www.scut.edu.cn/new/" style="text-decoration:none;">South China University of Technology</a>, <a href="https://www2.scut.edu.cn/ee/" style="text-decoration:none;">School of Electronic and Information Engineering</a>, supervised by <a href="http://www.dlvc-lab.net/lianwen/Index.html" style="text-decoration:none;">Prof. Lianwen Jin</a>. I recieved my Bachelor degree from <a href="https://www2.scut.edu.cn/automation/" style="text-decoration:none;">School of Automation Science and Engineering</a>, <a href="https://www.scut.edu.cn/new/" style="text-decoration:none;">SCUT</a>, where I spent a wonderfull four years. 
 
 My research interests are focused on diffusion model, image generation, low-level image processing, document understanding and video generation. I am also devoted into the open source community.  
 
@@ -31,8 +31,7 @@ News
 -----
 ∙ **[12/2023]** 🔥🔥🔥 The 📺<a href="https://huggingface.co/spaces/yeungchenwa/FontDiffuser-Gradio" style="text-decoration:none;">Hugging Face Demo</a> and the 🧑‍💻<a href="https://github.com/yeungchenwa/FontDiffuser" style="text-decoration:none;">Github Repsitory</a> of <strong><a href='https://arxiv.org/abs/2312.12142'>FontDiffuser</a></strong> is released! Welcome to check it out.  
 ∙ **[12/2023]** 🎉 The paper <a href="https://arxiv.org/abs/2312.12142" style="text-decoration:none;">FontDiffuser</a> is accepted by <strong>AAAI2024</strong>, which excels in complex character generation and large style variation. The code and demo will be released soon.<br />
-∙ **[12/2023]** The paper <a href="https://arxiv.org/abs/2312.02694" style="text-decoration:none;">UPOCR</a> is released to arXiv, related to the unifying pixel-level OCR tasks.<br />
-∙ **[12/2023]** 🔥 Glad to see anyones!
+∙ **[12/2023]** Our paper <a href="https://arxiv.org/abs/2312.02694" style="text-decoration:none;">UPOCR</a> is released to arXiv.<br />
 
 Education
 -----
@@ -98,7 +97,7 @@ Medical Image Computing and Computer Assisted Intervention, (<strong>MICCAI</str
 </p>
 
 
-Source Projects
+Open-Source Projects
 -----
 <img style="float: left; margin:5px 10px" src="../my_images/projects/OCR-SAM.png" width="160" height="160">
 ### Optical Character Recognition with Segment Anything (OCR-SAM)
