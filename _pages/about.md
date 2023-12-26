@@ -107,6 +107,14 @@ Open-Source Projects
 Can SAM be applied to OCR? We take a simple try to combine two off-the-shelf OCR models in MMOCR with SAM to develop some OCR-related application demos, including SAM for Text, Text Removal and Text Inpainting. And we also provide a WebUI by gradio to give a better interaction.<br />
 <a href='https://github.com/yeungchenwa/OCR-SAM'><img src='https://img.shields.io/github/stars/yeungchenwa/OCR-SAM.svg?style=social&label=Star'></a>
 
+<img style="float: left; margin:5px 10px" src="../my_images/projects/FontDiffuser.png" width="160" height="160">
+### FontDiffuser: One-Shot Font Generation via Denoising Diffusion
+<p style="line-height:1.1">
+<font size="2">
+<strong>Zhenhua Yang</strong><br />
+We propose FontDiffuser, which is capable to generate unseen characters and styles, and it can be extended to the cross-lingual generation, such as Chinese to Korean.<br />
+<a href='https://github.com/yeungchenwa/FontDiffuser'><img src='https://img.shields.io/github/stars/yeungchenwa/FontDiffuser.svg?style=social&label=Star'></a>
+
 <br />
 </font>
 </p>
