@@ -66,6 +66,7 @@ Proceedings of the AAAI conference on artificial intelligence (<strong>AAAI</str
 <a href='https://yeungchenwa.github.io/fontdiffuser-homepage/'><img src='https://img.shields.io/badge/project-green'></a>
 <a href='https://github.com/yeungchenwa/FontDiffuser'><img src='https://img.shields.io/github/stars/yeungchenwa/FontDiffuser.svg?style=social&label=Star'></a>
 <a href='https://huggingface.co/spaces/yeungchenwa/FontDiffuser-Gradio'><img src='https://img.shields.io/badge/demo-purple'></a>
+<a href='https://mp.weixin.qq.com/s/DuFMB2d288eV4bHE-lyNwQ'><img src='https://img.shields.io/badge/公众号-yellow'></a>
 
 <br />
 </font>
