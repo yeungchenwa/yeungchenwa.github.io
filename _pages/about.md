@@ -18,7 +18,7 @@ My name is Zhenhua Yang (杨振华, Yeung Chenwa), I'm a second-year Master stud
 
 My research interests are focused on diffusion model, image generation, low-level image processing, document understanding and video generation. I am also devoted into the open source community.  
 
-<p style="color: red;">I'm looking for a 2025Fall PhD position!</p>
+<!-- <p style="color: red;">I'm looking for a 2025Fall PhD position!</p> -->
 
 <p align="center">
 <a href='https://github.com/yeungchenwa'>GitHub</a> / 
