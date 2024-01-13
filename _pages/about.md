@@ -86,7 +86,7 @@ arXiv Preprint, 2023<br />
 </font>
 </p>
 
------
+<!-- -----
 <img style="float: left; margin:5px 10px" src="../my_images/publications/CDOR.png" width="160" height="160">
 ### Censoring-aware deep ordinal regression for survival prediction from pathological images
 <p style="line-height:1.1">
@@ -97,7 +97,7 @@ Medical Image Computing and Computer Assisted Intervention, (<strong>MICCAI</str
 
 <br />
 </font>
-</p>
+</p> -->
 
 
 Open-Source Projects
