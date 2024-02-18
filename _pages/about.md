@@ -18,7 +18,7 @@ My name is Zhenhua Yang (杨振华, Yeung Chenwa), I'm a second-year Master's st
 I received my Bachelor degree from <a href="https://www2.scut.edu.cn/automation/" style="text-decoration:none;">School of Automation Science and Engineering</a>, <a href="https://www.scut.edu.cn/new/" style="text-decoration:none;">South China University of Technology</a> in 2022. 
 <!-- I also works closely with <a href="https://scholar.google.com/citations?user=6zNgcjAAAAAJ&hl=zh-CN&oi=ao" style="text-decoration:none;">Dezhi Peng</a> now.  -->
 
-My research interests are focused on Diffusion Model, Image Generation, Document Restoration, and Video Generation. I am also devoted into the open source community.  
+My research interests are focused on Diffusion Model, Image/Video Generation, and Document Restoration. I am also devoted into the open source community.  
 
 <!-- <p style="color: red;">I'm looking for a 2025Fall PhD position!</p> -->
 
