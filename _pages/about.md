@@ -26,7 +26,7 @@ My research interests are focused on Diffusion Model, Image/Video Generation, an
 <a href='https://github.com/yeungchenwa'>GitHub</a> / 
 <a href='https://scholar.google.com/citations?hl=zh-CN&user=2ITs6lUAAAAJ'>Google Scholar</a> / 
 <a href='eezhyang@gmail.com'>Email</a> / 
-<a href='https://www.zhihu.com/people/young-40-31'>Zhihu</a>
+<a href='https://www.zhihu.com/people/young-40-31'>Zhihu</a> /
 <a href='https://www.linkedin.com/in/zhenhua-yang-3911982b2'>Linkin</a>
 </p>
 
