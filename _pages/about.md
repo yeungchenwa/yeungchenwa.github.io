@@ -20,7 +20,7 @@ I received my Bachelor degree from <a href="https://www2.scut.edu.cn/automation/
 
 My research interests are focused on Diffusion Model, Image/Video Generation, and Document Restoration. I am also devoted into the open source community. 
 
-I am enthusiastic about discussing with different people. If you are inter!ested, please feel free to $\color{#FF00FF}{contact\ me}$
+I am enthusiastic about discussing with different people. If you are interested, please feel free to $\color{#FF00FF}{contact\ me}$!
 
 <!-- <p style="color: red;">I'm looking for a 2025Fall PhD position!</p> -->
 
@@ -167,6 +167,7 @@ Mics
 **Habit**: A heavy coffee drinker ☕️~  
 
 <table style="width: 50%; max-width: 600px" align="center" border="0" cellpadding="20">
-    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=TuVRvKdiJmKZ6t0SuQ7FsO2avdiz4cQm8yys_lX28-Q&cl=ffffff&w=a"></script>
+    <!-- <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=TuVRvKdiJmKZ6t0SuQ7FsO2avdiz4cQm8yys_lX28-Q&cl=ffffff&w=a"></script> -->
     <!-- <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=W6xsx5HPxNJXa7j8kFXnCZ9IPsDYpfC2Dq33fbsee5Q"></script> -->
+    <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=TuVRvKdiJmKZ6t0SuQ7FsO2avdiz4cQm8yys_lX28-Q&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
 </table>
