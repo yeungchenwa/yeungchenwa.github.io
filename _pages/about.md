@@ -34,6 +34,7 @@ I am enthusiastic about discussing with different people. If you are interested,
 
 News
 -----
+∙ **[05/2024]** Our paper <a href="https://arxiv.org/abs/2312.02694" style="text-decoration:none;">UPOCR</a> is accepted by ICML 2024 🎉🎉🎉.<br />
 ∙ **[12/2023]** 🔥🔥🔥 The 📺<a href="https://huggingface.co/spaces/yeungchenwa/FontDiffuser-Gradio" style="text-decoration:none;">Hugging Face Demo</a> and the 🧑‍💻<a href="https://github.com/yeungchenwa/FontDiffuser" style="text-decoration:none;">Github Repository</a> of <strong><a href='https://arxiv.org/abs/2312.12142'>FontDiffuser</a></strong> is released! Welcome to check it out.  
 ∙ **[12/2023]** 🎉 The paper <a href="https://arxiv.org/abs/2312.12142" style="text-decoration:none;">FontDiffuser</a> is accepted by <strong>AAAI2024</strong>, which excels in complex character generation and large style variation. The code and demo will be released soon.<br />
 ∙ **[12/2023]** Our paper <a href="https://arxiv.org/abs/2312.02694" style="text-decoration:none;">UPOCR</a> is released to arXiv.<br />
@@ -81,8 +82,7 @@ Proceedings of the AAAI conference on artificial intelligence (<strong>AAAI</str
 ### UPOCR: Towards Unified Pixel-Level OCR Interface
 <p style="line-height:1.1">
 <font size="2">
-<a href="https://scholar.google.com/citations?user=6zNgcjAAAAAJ&hl=zh-CN&oi=ao" style="text-decoration:none;">Dezhi Peng</a>*, <strong>Zhenhua Yang*</strong>, Jiaxin Zhang, Chongyu Liu, Yongxin Shi, <a href="http://www.dlvc-lab.net/lianwen/Index.html" style="text-decoration:none;">Lianwen Jin</a>†<br />
-arXiv Preprint, 2023<br />
+<a href="https://scholar.google.com/citations?user=6zNgcjAAAAAJ&hl=zh-CN&oi=ao" style="text-decoration:none;">Dezhi Peng</a>*, <strong>Zhenhua Yang*</strong>, Jiaxin Zhang, Chongyu Liu, Yongxin Shi, <a href="http://www.dlvc-lab.net/lianwen/Index.html" style="text-decoration:none;">Lianwen Jin</a>†<br />International Conference on Machine Learning (<strong>ICML</strong>), 2024<br />
 <a href='https://arxiv.org/abs/2312.02694'><img src='https://img.shields.io/badge/paper-9cf'></a>
 
 <br />
