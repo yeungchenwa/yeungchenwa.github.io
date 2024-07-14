@@ -171,7 +171,7 @@ A paper collection of recent diffusion models for text-image generation tasks, e
 
 -----
 <img style="float: left; margin:5px 10px" src="../my_images/projects/Recommendations-Document-Image-Processing.png" width="160" height="150">
-### Recommendations Document Image Processing
+### Recommendations of Document Image Processing
 <p style="line-height:1.1">
 <font size="2">
 <strong>Zhenhua Yang</strong><br />
