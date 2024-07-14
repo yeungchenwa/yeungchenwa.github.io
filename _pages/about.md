@@ -183,6 +183,7 @@ A paper collection of the methods for document image processing, including appea
 </p>
 
 
+-
 Award
 -----
 - Shenzhen HighPower Technology Scholarship, 2022. (Top 2%)
