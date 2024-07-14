@@ -16,6 +16,7 @@ body, h1, h2, h3, h4, h5, h6 {
 
 My name is Zhenhua Yang (杨振华, Yeung Chenwa), I'm a second-year Master's student from <a href="https://github.com/HCIILAB" style="text-decoration:none;">SCUT-DLVCLab</a> in <a href="https://www2.scut.edu.cn/ee/" style="text-decoration:none;">School of Electronic and Information Engineering</a>, <a href="https://www.scut.edu.cn/new/" style="text-decoration:none;">South China University of Technology</a>, supervised by <a href="http://www.dlvc-lab.net/lianwen/Index.html" style="text-decoration:none;">Prof. Lianwen Jin</a>. 
 I received my Bachelor degree from <a href="https://www2.scut.edu.cn/automation/" style="text-decoration:none;">School of Automation Science and Engineering</a>, <a href="https://www.scut.edu.cn/new/" style="text-decoration:none;">South China University of Technology</a> in 2022. 
+Now I am interned at <a href="https://www.idea.edu.cn/" style="text-decoration:none;">International Digital Economy Academy (IDEA)</a>, supervised by Prof. <a href="https://www.leizhang.org/" style="text-decoration:none;">Lei Zhang</a> and closely work with Dr. <a href="https://haozhang534.github.io/" style="text-decoration:none;">Hao Zhang</a>.
 <!-- I also works closely with <a href="https://scholar.google.com/citations?user=6zNgcjAAAAAJ&hl=zh-CN&oi=ao" style="text-decoration:none;">Dezhi Peng</a> now.  -->  
 
 My research interests are focused on Diffusion Model, Image/Video Generation, and Document Restoration. I am also devoted into the open source community. 
