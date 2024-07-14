@@ -65,7 +65,7 @@ B.E student in <a href="https://www2.scut.edu.cn/automation/" style="text-decora
 
 Experience
 -----
-<img style="float: left; margin:5px 10px" src="../my_images/experiences/idea.png" width="100" height="50">
+<img style="float: left; margin:5px 10px" src="../my_images/experiences/idea.png" width="100" height="100">
 ### <a href="https://www.idea.edu.cn/" style="text-decoration:none;">International Digital Economy Academy (IDEA)</a> - <a href="https://github.com/IDEA-Research" style="text-decoration:none;">CVR</a>
 <p style="line-height:1.1">
 <font size="2">
@@ -76,7 +76,7 @@ Multi-modality Understanding, supervised by Prof. <a href="https://www.leizhang.
 </p>
 
 -----
-<img style="float: left; margin:5px 10px" src="../my_images/experiences/intsig.png" width="100" height="50">
+<img style="float: left; margin:5px 10px" src="../my_images/experiences/intsig.png" width="100" height="100">
 ### <a href="https://www.intsig.com/" style="text-decoration:none;">INTSIG</a> - <a href="https://www.intsig.com/personal-camscanner" style="text-decoration:none;">CamScanner</a>
 <p style="line-height:1.1">
 <font size="2">
