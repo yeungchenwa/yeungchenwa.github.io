@@ -19,7 +19,7 @@ I received my Bachelor degree from <a href="https://www2.scut.edu.cn/automation/
 Now I am interned at <a href="https://www.idea.edu.cn/" style="text-decoration:none;">International Digital Economy Academy (IDEA)</a>, supervised by Prof. <a href="https://www.leizhang.org/" style="text-decoration:none;">Lei Zhang</a> and closely work with Dr. <a href="https://haozhang534.github.io/" style="text-decoration:none;">Hao Zhang</a>.
 <!-- I also works closely with <a href="https://scholar.google.com/citations?user=6zNgcjAAAAAJ&hl=zh-CN&oi=ao" style="text-decoration:none;">Dezhi Peng</a> now.  -->  
 
-My research interests are focused on Diffusion Model, Image/Video Generation, and Document Restoration. I am also devoted into the open source community. 
+My research interests are focused on Multi-Modal LLMs, Diffusion Model, Image/Video Generation, and Document Understanding, and Embodied AI. I am also devoted into the open source community. 
 
 I am enthusiastic about discussing with different people. If you are interested, please feel free to $\color{#FF00FF}{contact\ me}$!
 
@@ -60,6 +60,29 @@ M.S student at <a href="https://github.com/HCIILAB" style="text-decoration:none;
 <font size="2">
 Sep. 2018 - Jun. 2022 <br />
 B.E student in <a href="https://www2.scut.edu.cn/automation/" style="text-decoration:none;">School of Automation Science and Engineering</a><br />
+</font>
+</p>
+
+Experience
+-----
+<img style="float: left; margin:5px 10px" src="../my_images/experiences/idea.png" width="100" height="50">
+### <a href="https://www.idea.edu.cn/" style="text-decoration:none;">International Digital Economy Academy (IDEA)</a> - <a href="https://github.com/IDEA-Research" style="text-decoration:none;">CVR</a>
+<p style="line-height:1.1">
+<font size="2">
+Jun. 2024 - Present <br />
+Research Intern <br />
+Multi-modality Understanding, supervised by Prof. <a href="https://www.leizhang.org/" style="text-decoration:none;">Lei Zhang</a>.<br />
+</font>
+</p>
+
+-----
+<img style="float: left; margin:5px 10px" src="../my_images/experiences/intsig.png" width="100" height="50">
+### <a href="https://www.intsig.com/" style="text-decoration:none;">INTSIG</a> - <a href="https://www.intsig.com/personal-camscanner" style="text-decoration:none;">CamScanner</a>
+<p style="line-height:1.1">
+<font size="2">
+Mar. 2024 - May 2024 <br />
+Engineering Intern <br />
+Editing documents in real-world scenarios.<br />
 </font>
 </p>
 
