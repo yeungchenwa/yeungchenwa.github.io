@@ -35,6 +35,8 @@ I am enthusiastic about discussing with different people. If you are interested,
 
 News
 -----
+∙ **[07/2024]** I will attend to **ICML 2024** conference in person in Vienna, Austria. Open to have a disscussion or play with you. 🌹🌹🌹<br />
+∙ **[06/2024]** Now I am interned at <a href="https://www.idea.edu.cn/" style="text-decoration:none;">International Digital Economy Academy (IDEA)</a>, supervised by Prof. <a href="https://www.leizhang.org/" style="text-decoration:none;">Lei Zhang</a> and closely work with Dr. <a href="https://haozhang534.github.io/" style="text-decoration:none;">Hao Zhang</a>, where I am working on the topic of vision-language large model for video understanding.<br />
 ∙ **[05/2024]** Our paper <a href="https://arxiv.org/abs/2312.02694" style="text-decoration:none;">UPOCR</a> is accepted by ICML 2024 🎉🎉🎉.<br />
 ∙ **[12/2023]** 🔥🔥🔥 The 📺<a href="https://huggingface.co/spaces/yeungchenwa/FontDiffuser-Gradio" style="text-decoration:none;">Hugging Face Demo</a> and the 🧑‍💻<a href="https://github.com/yeungchenwa/FontDiffuser" style="text-decoration:none;">Github Repository</a> of <strong><a href='https://arxiv.org/abs/2312.12142'>FontDiffuser</a></strong> is released! Welcome to check it out.  
 ∙ **[12/2023]** 🎉 The paper <a href="https://arxiv.org/abs/2312.12142" style="text-decoration:none;">FontDiffuser</a> is accepted by <strong>AAAI2024</strong>, which excels in complex character generation and large style variation. The code and demo will be released soon.<br />
@@ -90,7 +92,7 @@ Proceedings of the AAAI conference on artificial intelligence (<strong>AAAI</str
 </font>
 </p>
 
-<!-- -----
+-----
 <img style="float: left; margin:5px 10px" src="../my_images/publications/CDOR.png" width="160" height="160">
 ### Censoring-aware deep ordinal regression for survival prediction from pathological images
 <p style="line-height:1.1">
@@ -101,7 +103,7 @@ Medical Image Computing and Computer Assisted Intervention, (<strong>MICCAI</str
 
 <br />
 </font>
-</p> -->
+</p>
 
 
 Open-Source Projects
