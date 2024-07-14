@@ -125,7 +125,7 @@ Can SAM be applied to OCR? We take a simple try to combine two off-the-shelf OCR
 ### FontDiffuser: One-Shot Font Generation via Denoising Diffusion
 <p style="line-height:1.1">
 <font size="2">
-<strong>Zhenhua Yang</strong><br />
+Jiaxin Zhang, <strong>Zhenhua Yang</strong><br />
 We propose FontDiffuser, which is capable to generate unseen characters and styles, and it can be extended to the cross-lingual generation, such as Chinese to Korean.<br />
 <a href='https://github.com/yeungchenwa/FontDiffuser'><img src='https://img.shields.io/github/stars/yeungchenwa/FontDiffuser.svg?style=social&label=Star'></a>
 
@@ -141,6 +141,19 @@ We propose FontDiffuser, which is capable to generate unseen characters and styl
 <strong>Zhenhua Yang</strong><br />
 A paper collection of recent diffusion models for text-image generation tasks, e,g., visual text generation, font generation, text removal, text image super resolution, text editing, handwritten generation, scene text recognition and scene text detection.<br />
 <a href='https://github.com/yeungchenwa/Recommendations-Diffusion-Text-Image'><img src='https://img.shields.io/github/stars/yeungchenwa/Recommendations-Diffusion-Text-Image.svg?style=social&label=Star'></a>
+
+<br />
+</font>
+</p>
+
+-----
+<img style="float: left; margin:5px 10px" src="../my_images/projects/Recommendations-Document-Image-Processing.png" width="160" height="160">
+### Recommendations Document Image Processing
+<p style="line-height:1.1">
+<font size="2">
+<strong>Zhenhua Yang</strong><br />
+A paper collection of the methods for document image processing, including appearance enhancement, deshadow, dewarping, deblur, and binarization.<br />
+<a href='https://github.com/ZZZHANG-jx/Recommendations-Document-Image-Processing'><img src='https://img.shields.io/github/stars/ZZZHANG-jx/Recommendations-Document-Image-Processing.svg?style=social&label=Star'></a>
 
 <br />
 </font>
