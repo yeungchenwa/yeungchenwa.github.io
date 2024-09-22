@@ -89,6 +89,17 @@ Editing documents in real-world scenarios.<br />
 
 Publications
 -----
+<img style="float: left; margin:5px 10px" src="../my_images/publications/HDR.png" width="160" height="160">
+### Predicting the Original Appearance of
+Damaged Historical Documents
+<p style="line-height:1.1">
+<font size="2">
+<strong>Zhenhua Yang*</strong>, <a href="https://scholar.google.com/citations?user=6zNgcjAAAAAJ&hl=zh-CN&oi=ao" style="text-decoration:none;">Dezhi Peng</a>*, Yongxin Shi, Yuyi Zhang, Chongyu Liu, <a href="http://www.dlvc-lab.net/lianwen/Index.html" style="text-decoration:none;">Lianwen Jin</a>†<br />Preprint 2024<br />
+
+<br />
+</font>
+</p>
+
 <img style="float: left; margin:5px 10px" src="../my_images/publications/FontDiffuser.png" width="160" height="160">
 ### FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning
 <p style="line-height:1.1">
@@ -120,9 +131,9 @@ Proceedings of the AAAI conference on artificial intelligence (<strong>AAAI</str
 ### HierCode: A Lightweight Hierarchical Codebook for Zero-shot Chinese Text Recognition
 <p style="line-height:1.1">
 <font size="2">
-Yuyi Zhang, Yuanzhi Zhu, Dezhi Peng, Peirong Zhang, <strong>Zhenhua Yang</strong>, Zhibo Yang, Cong Yao, <a href="http://www.dlvc-lab.net/lianwen/Index.html" style="text-decoration:none;">Lianwen Jin</a>†<br />
+Yuyi Zhang, Yuanzhi Zhu, Dezhi Peng, Peirong Zhang, <strong>Zhenhua Yang</strong>, <a href="http://www.dlvc-lab.net/lianwen/Index.html" style="text-decoration:none;">Lianwen Jin</a>†<br />
 Pattern Recognition (<strong>PR</strong>), 2024<br />
-<a href='https://link.springer.com/chapter/10.1007/978-3-030-59722-1_43'><img src='https://img.shields.io/badge/paper-9cf'></a>
+<a href='https://arxiv.org/pdf/2403.13761'><img src='https://img.shields.io/badge/paper-9cf'></a>
 
 <br />
 </font>
