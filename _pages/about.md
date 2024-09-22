@@ -89,7 +89,7 @@ Editing documents in real-world scenarios.<br />
 
 Publications
 -----
-<img style="float: left; margin:5px 10px" src="../my_images/publications/HDR.png" width="160" height="130">
+<img style="float: left; margin:5px 10px" src="../my_images/publications/HDR.png" width="160" height="160">
 ### Predicting the Original Appearance of Damaged Historical Documents
 <p style="line-height:1.1">
 <font size="2">
@@ -100,6 +100,7 @@ Publications
 </p>
 
 -----
+
 <img style="float: left; margin:5px 10px" src="../my_images/publications/FontDiffuser.png" width="160" height="160">
 ### FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning
 <p style="line-height:1.1">
