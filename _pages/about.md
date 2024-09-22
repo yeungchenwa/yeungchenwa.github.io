@@ -89,7 +89,7 @@ Editing documents in real-world scenarios.<br />
 
 Publications
 -----
-<img style="float: left; margin:5px 10px" src="../my_images/publications/HDR.png" width="160" height="160">
+<img style="float: left; margin:5px 10px" src="../my_images/publications/HDR.png" width="160" height="130">
 ### Predicting the Original Appearance of Damaged Historical Documents
 <p style="line-height:1.1">
 <font size="2">
@@ -115,7 +115,7 @@ Proceedings of the AAAI conference on artificial intelligence (<strong>AAAI</str
 </font>
 </p>
 
-<img style="float: left; margin:5px 10px" src="../my_images/publications/UPOCR.png" width="160" height="160">
+<img style="float: left; margin:5px 10px" src="../my_images/publications/UPOCR.png" width="160" height="150">
 ### UPOCR: Towards Unified Pixel-Level OCR Interface
 <p style="line-height:1.1">
 <font size="2">
@@ -126,7 +126,7 @@ Proceedings of the AAAI conference on artificial intelligence (<strong>AAAI</str
 </font>
 </p>
 
-<img style="float: left; margin:5px 10px" src="../my_images/publications/HierCode.png" width="160" height="180">
+<img style="float: left; margin:5px 10px" src="../my_images/publications/HierCode.png" width="160" height="160">
 ### HierCode: A Lightweight Hierarchical Codebook for Zero-shot Chinese Text Recognition
 <p style="line-height:1.1">
 <font size="2">
