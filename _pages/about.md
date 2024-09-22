@@ -20,7 +20,7 @@ I received my Bachelor degree from <a href="https://www2.scut.edu.cn/automation/
 I have interned at <a href="https://www.idea.edu.cn/" style="text-decoration:none;">International Digital Economy Academy (IDEA)</a> in summer 2024, supervised by Prof. <a href="https://www.leizhang.org/" style="text-decoration:none;">Lei Zhang</a> and closely work with Dr. <a href="https://haozhang534.github.io/" style="text-decoration:none;">Hao Zhang</a>. (Wonderful journey I have experienced)
 <!-- I also works closely with <a href="https://scholar.google.com/citations?user=6zNgcjAAAAAJ&hl=zh-CN&oi=ao" style="text-decoration:none;">Dezhi Peng</a> now.  -->  
 
-My research interests are focused on Multi-Modal LLMs, Diffusion Model, Image/Video Generation, and Document Understanding, and Embodied AI. I am also devoted into the open source community. 
+My research interests are focused on AIGC, Generative Model, Video Understanding, Vision Language Model, and Document Understanding. I am also devoted into the open source community. 
 
 I am enthusiastic about discussing with different people. If you are interested, please feel free to $\color{#FF00FF}{contact\ me}$!
 
@@ -116,7 +116,18 @@ Proceedings of the AAAI conference on artificial intelligence (<strong>AAAI</str
 </font>
 </p>
 
------
+<img style="float: left; margin:5px 10px" src="../my_images/publications/HierCode.png" width="160" height="160">
+### HierCode: A Lightweight Hierarchical Codebook for Zero-shot Chinese Text Recognition
+<p style="line-height:1.1">
+<font size="2">
+Yuyi Zhang, Yuanzhi Zhu, Dezhi Peng, Peirong Zhang, <strong>Zhenhua Yang</strong>, Zhibo Yang, Cong Yao, <a href="http://www.dlvc-lab.net/lianwen/Index.html" style="text-decoration:none;">Lianwen Jin</a>†<br />
+Pattern Recognition (<strong>PR</strong>), 2024<br />
+<a href='https://link.springer.com/chapter/10.1007/978-3-030-59722-1_43'><img src='https://img.shields.io/badge/paper-9cf'></a>
+
+<br />
+</font>
+</p>
+
 <img style="float: left; margin:5px 10px" src="../my_images/publications/CDOR.png" width="160" height="160">
 ### Censoring-aware deep ordinal regression for survival prediction from pathological images
 <p style="line-height:1.1">
