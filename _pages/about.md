@@ -99,6 +99,7 @@ Publications
 </font>
 </p>
 
+-----
 <img style="float: left; margin:5px 10px" src="../my_images/publications/FontDiffuser.png" width="160" height="160">
 ### FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning
 <p style="line-height:1.1">
@@ -115,6 +116,7 @@ Proceedings of the AAAI conference on artificial intelligence (<strong>AAAI</str
 </font>
 </p>
 
+-----
 <img style="float: left; margin:5px 10px" src="../my_images/publications/UPOCR.png" width="160" height="150">
 ### UPOCR: Towards Unified Pixel-Level OCR Interface
 <p style="line-height:1.1">
@@ -126,6 +128,7 @@ Proceedings of the AAAI conference on artificial intelligence (<strong>AAAI</str
 </font>
 </p>
 
+-----
 <img style="float: left; margin:5px 10px" src="../my_images/publications/HierCode.png" width="160" height="160">
 ### HierCode: A Lightweight Hierarchical Codebook for Zero-shot Chinese Text Recognition
 <p style="line-height:1.1">
@@ -138,6 +141,7 @@ Pattern Recognition (<strong>PR</strong>), 2024<br />
 </font>
 </p>
 
+-----
 <img style="float: left; margin:5px 10px" src="../my_images/publications/CDOR.png" width="160" height="160">
 ### Censoring-aware deep ordinal regression for survival prediction from pathological images
 <p style="line-height:1.1">
