@@ -121,7 +121,7 @@ Proceedings of the AAAI conference on artificial intelligence (<strong>AAAI</str
 <font size="2">
 <a href="https://scholar.google.com/citations?user=6zNgcjAAAAAJ&hl=zh-CN&oi=ao" style="text-decoration:none;">Dezhi Peng</a>*, <strong>Zhenhua Yang*</strong>, Jiaxin Zhang, Chongyu Liu, Yongxin Shi, <a href="http://www.dlvc-lab.net/lianwen/Index.html" style="text-decoration:none;">Lianwen Jin</a>†<br />International Conference on Machine Learning (<strong>ICML</strong>), 2024<br />
 <a href='https://arxiv.org/abs/2312.02694'><img src='https://img.shields.io/badge/paper-9cf'></a>
-
+<a href='https://github.com/shannanyinxiang/UPOCR'><img src='https://img.shields.io/github/stars/shannanyinxiang/UPOCR.svg?style=social&label=Star'></a>
 <br />
 </font>
 </p>
