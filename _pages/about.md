@@ -90,8 +90,7 @@ Editing documents in real-world scenarios.<br />
 Publications
 -----
 <img style="float: left; margin:5px 10px" src="../my_images/publications/HDR.png" width="160" height="160">
-### Predicting the Original Appearance of
-Damaged Historical Documents
+### Predicting the Original Appearance of Damaged Historical Documents
 <p style="line-height:1.1">
 <font size="2">
 <strong>Zhenhua Yang*</strong>, <a href="https://scholar.google.com/citations?user=6zNgcjAAAAAJ&hl=zh-CN&oi=ao" style="text-decoration:none;">Dezhi Peng</a>*, Yongxin Shi, Yuyi Zhang, Chongyu Liu, <a href="http://www.dlvc-lab.net/lianwen/Index.html" style="text-decoration:none;">Lianwen Jin</a>†<br />Preprint 2024<br />
@@ -127,7 +126,7 @@ Proceedings of the AAAI conference on artificial intelligence (<strong>AAAI</str
 </font>
 </p>
 
-<img style="float: left; margin:5px 10px" src="../my_images/publications/HierCode.png" width="160" height="160">
+<img style="float: left; margin:5px 10px" src="../my_images/publications/HierCode.png" width="160" height="180">
 ### HierCode: A Lightweight Hierarchical Codebook for Zero-shot Chinese Text Recognition
 <p style="line-height:1.1">
 <font size="2">
