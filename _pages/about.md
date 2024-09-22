@@ -101,7 +101,7 @@ Publications
 
 -----
 
-<img style="float: left; margin:5px 10px" src="../my_images/publications/FontDiffuser.png" width="160" height="160">
+<img style="float: left; margin:5px 10px" src="../my_images/publications/FontDiffuser.png" width="160" height="140">
 ### FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning
 <p style="line-height:1.1">
 <font size="2">
