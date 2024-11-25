@@ -22,7 +22,8 @@ I have interned at <a href="https://www.idea.edu.cn/" style="text-decoration:non
 
 My research interests are focused on AIGC, Generative Model, Video Understanding, Vision Language Model, and Document Understanding. I am also devoted into the open source community. 
 
-I am enthusiastic about discussing with different people. If you are interested, please feel free to $\color{#FF00FF}{contact\ me}$!
+<!-- I am enthusiastic about discussing with different people. If you are interested, please feel free to $\color{#FF00FF}{contact\ me}$! -->
+<p style="color: red;">[News] I anticipate graduating in June, 2025 and am open to industrial research/engineering positions. If you are interested, please feel free to contact me.</p>
 
 <!-- <p style="color: red;">I'm looking for a 2025Fall PhD position!</p> -->
 
