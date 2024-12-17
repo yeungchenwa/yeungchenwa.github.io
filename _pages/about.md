@@ -37,7 +37,8 @@ My research interests are focused on AIGC, Generative Model, Video Understanding
 
 News
 -----
-∙ **[12/2024]** One paper is accepted by **AAAI 2025** 🎉🎉🎉, and the dataset, code and weight will be public soon. 🌹🌹🌹<br />
+∙ **[12/2024]** The inference code of our paper <a href="https://arxiv.org/abs/2412.11634" style="text-decoration:none;">HDR</a> is released in <a href="https://github.com/yeungchenwa/HDR" style="text-decoration:none;">link</a>.<br />
+∙ **[12/2024]** Our paper <a href="https://arxiv.org/abs/2412.11634" style="text-decoration:none;">HDR</a> is accepted by **AAAI 2025** 🎉🎉🎉, and the dataset, code and weight will be public soon. 🌹🌹🌹<br />
 ∙ **[07/2024]** I will attend to **ICML 2024** conference in person in Vienna, Austria. Open to have a disscussion or play with you. 🌹🌹🌹<br />
 ∙ **[06/2024]** Now I am interned at <a href="https://www.idea.edu.cn/" style="text-decoration:none;">International Digital Economy Academy (IDEA)</a>, supervised by Prof. <a href="https://www.leizhang.org/" style="text-decoration:none;">Lei Zhang</a> and closely work with Dr. <a href="https://haozhang534.github.io/" style="text-decoration:none;">Hao Zhang</a>, where I am working on the topic of vision-language large model for video understanding.<br />
 ∙ **[05/2024]** Our paper <a href="https://arxiv.org/abs/2312.02694" style="text-decoration:none;">UPOCR</a> is accepted by ICML 2024 🎉🎉🎉.<br />
@@ -97,7 +98,9 @@ Publications
 <font size="2">
 <strong>Zhenhua Yang*</strong>, <a href="https://scholar.google.com/citations?user=6zNgcjAAAAAJ&hl=zh-CN&oi=ao" style="text-decoration:none;">Dezhi Peng</a>*, Yongxin Shi, Yuyi Zhang, Chongyu Liu, <a href="http://www.dlvc-lab.net/lianwen/Index.html" style="text-decoration:none;">Lianwen Jin</a>†<br />
 Proceedings of the AAAI conference on artificial intelligence (<strong>AAAI</strong>), 2025<br /><br />
-
+<a href='https://arxiv.org/abs/2412.11634'><img src='https://img.shields.io/badge/paper-9cf'></a>
+<a href='https://yeungchenwa.github.io/hdr-homepage/'><img src='https://img.shields.io/badge/project-green'></a>
+<a href='https://github.com/yeungchenwa/HDR'><img src='https://img.shields.io/github/stars/yeungchenwa/HDR.svg?style=social&label=Star'></a>
 <br />
 </font>
 </p>
