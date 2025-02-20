@@ -37,6 +37,7 @@ My research interests are focused on AIGC, Generative Model, Video Understanding
 
 News
 -----
+∙ **[02/2025]** 🎉🎉🎉 Our paper <a href="https://arxiv.org/abs/2412.11634" style="text-decoration:none;">HDR</a> is selected as the **oral** presentation <br />
 ∙ **[12/2024]** The inference code of our paper <a href="https://arxiv.org/abs/2412.11634" style="text-decoration:none;">HDR</a> is released in <a href="https://github.com/yeungchenwa/HDR" style="text-decoration:none;">link</a>.<br />
 ∙ **[12/2024]** Our paper <a href="https://arxiv.org/abs/2412.11634" style="text-decoration:none;">HDR</a> is accepted by **AAAI 2025** 🎉🎉🎉, and the dataset, code and weight will be public soon. 🌹🌹🌹<br />
 ∙ **[07/2024]** I will attend to **ICML 2024** conference in person in Vienna, Austria. Open to have a disscussion or play with you. 🌹🌹🌹<br />
@@ -97,7 +98,7 @@ Publications
 <p style="line-height:1.1">
 <font size="2">
 <strong>Zhenhua Yang*</strong>, <a href="https://scholar.google.com/citations?user=6zNgcjAAAAAJ&hl=zh-CN&oi=ao" style="text-decoration:none;">Dezhi Peng</a>*, Yongxin Shi, Yuyi Zhang, Chongyu Liu, <a href="http://www.dlvc-lab.net/lianwen/Index.html" style="text-decoration:none;">Lianwen Jin</a>†<br />
-Proceedings of the AAAI conference on artificial intelligence (<strong>AAAI</strong>), 2025<br /><br />
+Proceedings of the AAAI conference on artificial intelligence (<strong>AAAI Oral</strong>), 2025<br /><br />
 <a href='https://arxiv.org/abs/2412.11634'><img src='https://img.shields.io/badge/paper-9cf'></a>
 <a href='https://yeungchenwa.github.io/hdr-homepage/'><img src='https://img.shields.io/badge/project-green'></a>
 <a href='https://github.com/yeungchenwa/HDR'><img src='https://img.shields.io/github/stars/yeungchenwa/HDR.svg?style=social&label=Star'></a>
