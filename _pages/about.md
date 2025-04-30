@@ -14,16 +14,17 @@ body, h1, h2, h3, h4, h5, h6 {
 }
 </style>
 
-My name is Zhenhua Yang (杨振华, Yeung Chenwa), I'm a second-year Master's student from <a href="https://github.com/HCIILAB" style="text-decoration:none;">SCUT-DLVCLab</a> in <a href="https://www2.scut.edu.cn/ee/" style="text-decoration:none;">School of Electronic and Information Engineering</a>, <a href="https://www.scut.edu.cn/new/" style="text-decoration:none;">South China University of Technology</a>, supervised by <a href="http://www.dlvc-lab.net/lianwen/Index.html" style="text-decoration:none;">Prof. Lianwen Jin</a>. 
+My name is Zhenhua Yang (杨振华, Yeung Chenwa).
+I'm a third-year Master's student from <a href="https://github.com/HCIILAB" style="text-decoration:none;">SCUT-DLVCLab</a> in <a href="https://www2.scut.edu.cn/ee/" style="text-decoration:none;">School of Electronic and Information Engineering</a>, <a href="https://www.scut.edu.cn/new/" style="text-decoration:none;">South China University of Technology</a>, supervised by <a href="http://www.dlvc-lab.net/lianwen/Index.html" style="text-decoration:none;">Prof. Lianwen Jin</a>. 
 I received my Bachelor degree from <a href="https://www2.scut.edu.cn/automation/" style="text-decoration:none;">School of Automation Science and Engineering</a>, <a href="https://www.scut.edu.cn/new/" style="text-decoration:none;">South China University of Technology</a> in 2022. 
 
-I have interned at <a href="https://www.idea.edu.cn/" style="text-decoration:none;">International Digital Economy Academy (IDEA)</a> in summer 2024, supervised by Prof. <a href="https://www.leizhang.org/" style="text-decoration:none;">Lei Zhang</a> and closely work with Dr. <a href="https://haozhang534.github.io/" style="text-decoration:none;">Hao Zhang</a>. (Wonderful journey I have experienced)
-<!-- I also works closely with <a href="https://scholar.google.com/citations?user=6zNgcjAAAAAJ&hl=zh-CN&oi=ao" style="text-decoration:none;">Dezhi Peng</a> now.  -->  
+Previously, I have interned at <a href="https://klingai.com/global/" style="text-decoration:none;">Kling Team</a> of Kuaishou (advised by <a href="https://www.xtao.website/" style="text-decoration:none;">Xin Tao</a>)
+and <a href="https://www.idea.edu.cn/" style="text-decoration:none;">International Digital Economy Academy (IDEA)</a> (advised by Prof. <a href="https://www.leizhang.org/" style="text-decoration:none;">Lei Zhang</a> and Dr. <a href="https://haozhang534.github.io/" style="text-decoration:none;">Hao Zhang</a>).
 
-My research interests are focused on AIGC, Generative Model, Video Understanding, Vision Language Model, and Document Understanding. I am also devoted into the open source community. 
+My research interests are focused on AIGC, Generative Model, and Large Multi-Modal Models. I am also devoted into the open source community. 
 
 <!-- I am enthusiastic about discussing with different people. If you are interested, please feel free to $\color{#FF00FF}{contact\ me}$! -->
-<p style="color: red;">[News] I will graduate in June 2025 and I am open to industrial research/engineering positions. If you are interested, please feel free to contact me.</p>
+<!-- <p style="color: red;">[News] I will graduate in June 2025 and I am open to industrial research/engineering positions. If you are interested, please feel free to contact me.</p> -->
 
 <!-- <p style="color: red;">I'm looking for a 2025Fall PhD position!</p> -->
 
