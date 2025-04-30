@@ -149,6 +149,19 @@ Proceedings of the AAAI conference on artificial intelligence (<strong>AAAI</str
 </p>
 
 -----
+<img style="float: left; margin:5px 10px" src="../my_images/publications/megahan.png" width="160" height="160">
+### MegaHan97K: A Large-Scale Dataset for Mega-Category Chinese Character Recognition with over 97K Categories
+<p style="line-height:1.1">
+<font size="2">
+Yuyi Zhang, Yongxin Shi, Peirong Zhang, Xinyi Zhang, <strong>Zhenhua Yang</strong>, <a href="http://www.dlvc-lab.net/lianwen/Index.html" style="text-decoration:none;">Lianwen Jin</a>†<br />
+Pattern Recognition (<strong>PR</strong>), 2025<br />
+<!-- <a href='https://arxiv.org/pdf/2403.13761'><img src='https://img.shields.io/badge/paper-9cf'></a> -->
+
+<br />
+</font>
+</p>
+
+-----
 <img style="float: left; margin:5px 10px" src="../my_images/publications/HierCode.png" width="160" height="160">
 ### HierCode: A Lightweight Hierarchical Codebook for Zero-shot Chinese Text Recognition
 <p style="line-height:1.1">
