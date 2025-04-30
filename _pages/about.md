@@ -72,7 +72,7 @@ B.E student in <a href="https://www2.scut.edu.cn/automation/" style="text-decora
 Experience
 -----
 <img style="float: left; margin:5px 10px" src="../my_images/experiences/kling.png" width="100" height="100">
-### <a href="https://klingai.com/global/" style="text-decoration:none;">Kling Team of KuaiShou</a>
+### <a href="https://klingai.com/global/" style="text-decoration:none;">KuaiShou - Kling Team</a>
 <p style="line-height:1.1">
 <font size="2">
 Jun. 2025 - Apr. 2025 <br />
