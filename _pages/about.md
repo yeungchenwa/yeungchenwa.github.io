@@ -71,6 +71,17 @@ B.E student in <a href="https://www2.scut.edu.cn/automation/" style="text-decora
 
 Experience
 -----
+<img style="float: left; margin:5px 10px" src="../my_images/experiences/kling.png" width="100" height="100">
+### <a href="https://klingai.com/global/" style="text-decoration:none;">Kling Team of KuaiShou</a>
+<p style="line-height:1.1">
+<font size="2">
+Jun. 2025 - Apr. 2025 <br />
+Research Intern <br />
+Unifying Model for Generation and Understanding, supervised by <a href="https://klingai.com/global/" style="text-decoration:none;">Xin Tao</a>.<br />
+</font>
+</p>
+
+-----
 <img style="float: left; margin:5px 10px" src="../my_images/experiences/idea.png" width="100" height="100">
 ### <a href="https://www.idea.edu.cn/" style="text-decoration:none;">International Digital Economy Academy (IDEA)</a> - <a href="https://github.com/IDEA-Research" style="text-decoration:none;">CVR</a>
 <p style="line-height:1.1">
