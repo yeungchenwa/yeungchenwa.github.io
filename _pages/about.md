@@ -75,7 +75,7 @@ Experience
 ### <a href="https://klingai.com/global/" style="text-decoration:none;">KuaiShou - Kling Team</a>
 <p style="line-height:1.1">
 <font size="2">
-Jun. 2025 - Apr. 2025 <br />
+Jan. 2025 - Apr. 2025 <br />
 Research Intern <br />
 Unifying Model for Generation and Understanding, supervised by <a href="https://klingai.com/global/" style="text-decoration:none;">Xin Tao</a>.<br />
 </font>
