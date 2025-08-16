@@ -39,7 +39,7 @@ My research interests are focused on AIGC, Generative Model, and Large Multi-Mod
 
 News
 -----
-∙ **[05/2025]** 🎉🎉🎉 Our work <a href="https://arxiv.org/abs/2507.05108" style="text-decoration:none;">AutoHDR</a> is accepted by  **ACL 2025 main** <br /> and I am the project leader of this project. Also, the code is released in <a href="https://github.com/SCUT-DLVCLab/AutoHDR" style="text-decoration:none;">link</a>
+∙ **[05/2025]** 🎉🎉🎉 Our work <a href="https://arxiv.org/abs/2507.05108" style="text-decoration:none;">AutoHDR</a> is accepted by  **ACL 2025 main** and I am the project leader of this project. Also, the code is released in <a href="https://github.com/SCUT-DLVCLab/AutoHDR" style="text-decoration:none;">link</a>. <br />
 ∙ **[02/2025]** 🎉🎉🎉 Our paper <a href="https://arxiv.org/abs/2412.11634" style="text-decoration:none;">HDR</a> is selected as the **oral** presentation <br />
 ∙ **[12/2024]** The inference code of our paper <a href="https://arxiv.org/abs/2412.11634" style="text-decoration:none;">HDR</a> is released in <a href="https://github.com/yeungchenwa/HDR" style="text-decoration:none;">link</a>.<br />
 ∙ **[12/2024]** Our paper <a href="https://arxiv.org/abs/2412.11634" style="text-decoration:none;">HDR</a> is accepted by **AAAI 2025** 🎉🎉🎉, and the dataset, code and weight will be public soon. 🌹🌹🌹<br />
