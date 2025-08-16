@@ -39,6 +39,7 @@ My research interests are focused on AIGC, Generative Model, and Large Multi-Mod
 
 News
 -----
+∙ **[05/2025]** 🎉🎉🎉 Our work <a href="https://arxiv.org/abs/2507.05108" style="text-decoration:none;">AutoHDR</a> is accepted by  **ACL 2025 main** <br /> and I am the project leader of this project. Also, the code is released in <a href="https://github.com/SCUT-DLVCLab/AutoHDR" style="text-decoration:none;">link</a>
 ∙ **[02/2025]** 🎉🎉🎉 Our paper <a href="https://arxiv.org/abs/2412.11634" style="text-decoration:none;">HDR</a> is selected as the **oral** presentation <br />
 ∙ **[12/2024]** The inference code of our paper <a href="https://arxiv.org/abs/2412.11634" style="text-decoration:none;">HDR</a> is released in <a href="https://github.com/yeungchenwa/HDR" style="text-decoration:none;">link</a>.<br />
 ∙ **[12/2024]** Our paper <a href="https://arxiv.org/abs/2412.11634" style="text-decoration:none;">HDR</a> is accepted by **AAAI 2025** 🎉🎉🎉, and the dataset, code and weight will be public soon. 🌹🌹🌹<br />
@@ -145,6 +146,20 @@ Proceedings of the AAAI conference on artificial intelligence (<strong>AAAI</str
 <a href="https://scholar.google.com/citations?user=6zNgcjAAAAAJ&hl=zh-CN&oi=ao" style="text-decoration:none;">Dezhi Peng</a>*, <strong>Zhenhua Yang*</strong>, Jiaxin Zhang, Chongyu Liu, Yongxin Shi, <a href="http://www.dlvc-lab.net/lianwen/Index.html" style="text-decoration:none;">Lianwen Jin</a>†<br />International Conference on Machine Learning (<strong>ICML</strong>), 2024<br />
 <a href='https://arxiv.org/abs/2312.02694'><img src='https://img.shields.io/badge/paper-9cf'></a>
 <a href='https://github.com/shannanyinxiang/UPOCR'><img src='https://img.shields.io/github/stars/shannanyinxiang/UPOCR.svg?style=social&label=Star'></a>
+<br />
+</font>
+</p>
+
+-----
+<img style="float: left; margin:5px 10px" src="../my_images/publications/AutoHDR.png" width="160" height="160">
+### Reviving Cultural Heritage: A Novel Approach for Comprehensive Historical Document Restoration
+<p style="line-height:1.1">
+<font size="2">
+Yuyi Zhang, Peirong Zhang, <strong>Zhenhua Yang*(project lead)</strong>, Pengyu Yan, Yongxin Shi, Pengwei Liu, Fengjun Guo, <a href="http://www.dlvc-lab.net/lianwen/Index.html" style="text-decoration:none;">Lianwen Jin</a>†<br />
+The 63rd Annual Meeting of the Association for Computational Linguistics (<strong>ACL main</strong>), 2025<br /><br />
+<a href='https://arxiv.org/abs/2507.05108'><img src='https://img.shields.io/badge/paper-9cf'></a>
+<a href='https://github.com/SCUT-DLVCLab/AutoHDR'><img src='https://img.shields.io/github/stars/yeungchenwa/HDR.svg?style=social&label=Star'></a>
+<a href='http://121.41.49.212:8432/'><img src='https://img.shields.io/badge/demo-purple'></a>
 <br />
 </font>
 </p>
