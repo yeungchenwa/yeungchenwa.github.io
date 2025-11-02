@@ -177,6 +177,16 @@ The 63rd Annual Meeting of the Association for Computational Linguistics (<stron
 </p>
 
 -----
+<img style="float: left; margin:5px 10px" src="../my_images/publications/Awesome-OCR.png" width="160" height="160">
+### Aesthetics is Cheap, Show me the Text: An Empirical Evaluation of State-of-the-Art Generative Models for OCR
+<p style="line-height:1.1">
+<font size="2">
+Peirong Zhang, Haowei Xu, Jiaxin Zhang, Guitao Xu, Xuhan Zheng, <strong>Zhenhua Yang</strong>, Junle Liu, Yuyi Zhang, <a href="http://www.dlvc-lab.net/lianwen/Index.html" style="text-decoration:none;">Lianwen Jin</a>†<br />
+preprint<br />
+<a href='https://arxiv.org/abs/2507.15085'><img src='https://img.shields.io/badge/paper-9cf'></a>
+<a href='https://github.com/NiceRingNode/Awesome-Generative-Models-for-OCR'><img src='https://img.shields.io/github/stars/NiceRingNode/Awesome-Generative-Models-for-OCR.svg?style=social&label=Star'></a>
+
+-----
 <img style="float: left; margin:5px 10px" src="../my_images/publications/megahan.png" width="160" height="160">
 ### MegaHan97K: A Large-Scale Dataset for Mega-Category Chinese Character Recognition with over 97K Categories
 <p style="line-height:1.1">
