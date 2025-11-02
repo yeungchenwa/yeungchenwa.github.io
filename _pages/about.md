@@ -70,10 +70,11 @@ Sep. 2018 - Jun. 2022 <br />
 B.E student in <a href="https://www2.scut.edu.cn/automation/" style="text-decoration:none;">School of Automation Science and Engineering</a><br />
 </font>
 </p>
+-----
 
 Experience
 -----
-<img style="float: left; margin:5px 10px" src="../my_images/experiences/alibaba.png" width="100" height="100">
+<img style="float: left; margin:5px 10px" src="../my_images/experiences/alibaba.png" width="160" height="150">
 ### <a href="https://www.alibaba.com/" style="text-decoration:none;">Alibaba</a> - <a href="https://talent.taotian.com/" style="text-decoration:none;">Taobao&Tmall Group</a>
 <p style="line-height:1.1">
 <font size="2">
@@ -83,9 +84,11 @@ Image Generation and Editting on E-commerce Scenarios.<br />
 </font>
 </p>
 
+-----
+
 Internship
 -----
-<img style="float: left; margin:5px 10px" src="../my_images/experiences/kling.png" width="100" height="100">
+<img style="float: left; margin:5px 10px" src="../my_images/experiences/kling.png" width="160" height="120">
 ### <a href="https://klingai.com/global/" style="text-decoration:none;">KuaiShou - Kling Team</a>
 <p style="line-height:1.1">
 <font size="2">
@@ -96,7 +99,7 @@ Unifying Model for Generation and Understanding, supervised by <a href="https://
 </p>
 
 -----
-<img style="float: left; margin:5px 10px" src="../my_images/experiences/idea.png" width="100" height="100">
+<img style="float: left; margin:5px 10px" src="../my_images/experiences/idea.png" width="160" height="150">
 ### <a href="https://www.idea.edu.cn/" style="text-decoration:none;">International Digital Economy Academy (IDEA)</a> - <a href="https://github.com/IDEA-Research" style="text-decoration:none;">CVR</a>
 <p style="line-height:1.1">
 <font size="2">
@@ -107,7 +110,7 @@ Streaming Video Captioning and Understanding / Region Caption, supervised by Pro
 </p>
 
 -----
-<img style="float: left; margin:5px 10px" src="../my_images/experiences/intsig.png" width="100" height="100">
+<img style="float: left; margin:5px 10px" src="../my_images/experiences/intsig.png" width="160" height="130">
 ### <a href="https://www.intsig.com/" style="text-decoration:none;">INTSIG</a> - <a href="https://www.intsig.com/personal-camscanner" style="text-decoration:none;">CamScanner</a>
 <p style="line-height:1.1">
 <font size="2">
@@ -116,6 +119,8 @@ Engineering Intern <br />
 Editing documents in real-world scenarios.<br />
 </font>
 </p>
+
+-----
 
 Publications
 -----
@@ -151,7 +156,7 @@ Proceedings of the AAAI conference on artificial intelligence (<strong>AAAI</str
 </p>
 
 -----
-<img style="float: left; margin:5px 10px" src="../my_images/publications/UPOCR.png" width="160" height="150">
+<img style="float: left; margin:5px 10px" src="../my_images/publications/UPOCR.png" width="160" height="140">
 ### UPOCR: Towards Unified Pixel-Level OCR Interface
 <p style="line-height:1.1">
 <font size="2">
@@ -177,7 +182,7 @@ The 63rd Annual Meeting of the Association for Computational Linguistics (<stron
 </p>
 
 -----
-<img style="float: left; margin:5px 10px" src="../my_images/publications/Awesome-OCR.png" width="120" height="140">
+<img style="float: left; margin:5px 10px" src="../my_images/publications/Awesome-OCR.png" width="160" height="140">
 ### Aesthetics is Cheap, Show me the Text: An Empirical Evaluation of State-of-the-Art Generative Models for OCR
 <p style="line-height:1.1">
 <font size="2">
@@ -200,7 +205,7 @@ Pattern Recognition (<strong>PR</strong>), 2025<br />
 </p>
 
 -----
-<img style="float: left; margin:5px 10px" src="../my_images/publications/HierCode.png" width="160" height="160">
+<img style="float: left; margin:5px 10px" src="../my_images/publications/HierCode.png" width="160" height="150">
 ### HierCode: A Lightweight Hierarchical Codebook for Zero-shot Chinese Text Recognition
 <p style="line-height:1.1">
 <font size="2">
@@ -225,6 +230,7 @@ Medical Image Computing and Computer Assisted Intervention, (<strong>MICCAI</str
 </font>
 </p>
 
+-----
 
 Open-Source Projects
 -----
@@ -241,7 +247,7 @@ Can SAM be applied to OCR? We take a simple try to combine two off-the-shelf OCR
 </p>
 
 -----
-<img style="float: left; margin:5px 10px" src="../my_images/projects/FontDiffuser.png" width="160" height="160">
+<img style="float: left; margin:5px 10px" src="../my_images/projects/FontDiffuser.png" width="160" height="150">
 ### FontDiffuser: One-Shot Font Generation via Denoising Diffusion
 <p style="line-height:1.1">
 <font size="2">
@@ -254,6 +260,7 @@ We propose FontDiffuser, which is capable to generate unseen characters and styl
 </p>
 
 -----
+
 <img style="float: left; margin:5px 10px" src="../my_images/projects/Recommendations-Diffusion-Text-Image.png" width="160" height="160">
 ### Recommendations of Diffusion for Text-Image
 <p style="line-height:1.1">
@@ -267,7 +274,8 @@ A paper collection of recent diffusion models for text-image generation tasks, e
 </p>
 
 -----
-<img style="float: left; margin:5px 10px" src="../my_images/projects/Recommendations-Document-Image-Processing.png" width="160" height="160">
+
+<img style="float: left; margin:5px 10px" src="../my_images/projects/Recommendations-Document-Image-Processing.png" width="160" height="130">
 ### Recommendations of Document Image Processing
 <p style="line-height:1.1">
 <font size="2">
