@@ -15,7 +15,7 @@ body, h1, h2, h3, h4, h5, h6 {
 </style>
 
 My name is Zhenhua Yang (杨振华, Yeung Chenwa).
-I will join TaoTian Group of <a href="https://www.alibaba.com/" style="text-decoration:none;">Alibaba</a> in 2025.
+I will join Taobao&Tmall Group of <a href="https://www.alibaba.com/" style="text-decoration:none;">Alibaba</a> in 2025.
 I received my Master degree from <a href="https://github.com/HCIILAB" style="text-decoration:none;">SCUT-DLVCLab</a> in <a href="https://www2.scut.edu.cn/ee/" style="text-decoration:none;">School of Electronic and Information Engineering</a>, <a href="https://www.scut.edu.cn/new/" style="text-decoration:none;">South China University of Technology</a>, supervised by <a href="http://www.dlvc-lab.net/lianwen/Index.html" style="text-decoration:none;">Prof. Lianwen Jin</a>. 
 I received my Bachelor degree from <a href="https://www2.scut.edu.cn/automation/" style="text-decoration:none;">School of Automation Science and Engineering</a>, <a href="https://www.scut.edu.cn/new/" style="text-decoration:none;">South China University of Technology</a> in 2022. 
 
@@ -72,6 +72,18 @@ B.E student in <a href="https://www2.scut.edu.cn/automation/" style="text-decora
 </p>
 
 Experience
+-----
+<img style="float: left; margin:5px 10px" src="../my_images/experiences/alibaba.png" width="100" height="100">
+### <a href="https://www.alibaba.com/" style="text-decoration:none;">Alibaba</a> - <a href="https://talent.taotian.com/" style="text-decoration:none;">Taobao&Tmall Group</a>
+<p style="line-height:1.1">
+<font size="2">
+July 2025 - Present <br />
+AIGC Algorithm Engineer <br />
+Image Generation and Editting on E-commerce Scenarios.<br />
+</font>
+</p>
+
+Internship
 -----
 <img style="float: left; margin:5px 10px" src="../my_images/experiences/kling.png" width="100" height="100">
 ### <a href="https://klingai.com/global/" style="text-decoration:none;">KuaiShou - Kling Team</a>
