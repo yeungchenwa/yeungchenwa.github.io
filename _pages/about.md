@@ -347,7 +347,7 @@ Yuyi Zhang, Peirong Zhang, **Zhenhua Yang* (Project Lead)**, et al., Lianwen Jin
 ### Draft, Verify, Restore: Self-Refining Historical Inscription Restoration with a Unified MLLM
 <span class="highlight-topic">Topic:</span> Unify Content Reasoning (Understanding) and Generation
 
-Yuyi Zhang, Peirong Zhang, **Zhenhua Yang* (Project Lead)**, et al., Lianwen Jin†
+..., **Zhenhua Yang* (Project Lead)**, et al., Lianwen Jin†
 
 ***Submitted to*** Meeting of the Association for Computational Linguistics (<span class="conf-tag">ACL</span>), 2026
   </div>
