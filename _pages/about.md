@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: About Me
-excerpt: "About me"
+title: "Zhenhua Yang"
+excerpt: "Zhenhua Yang's Homepage"
 author_profile: true
 redirect_from:
   - /about/
@@ -100,14 +100,15 @@ redirect_from:
   }
   .item-content { flex-grow: 1; }
 
-  /* --- 核心修改：Publication 标题字体样式 --- */
-  /* 强制覆盖父级 Times New Roman，使用无衬线字体 (Sans-Serif) */
+  /* --- 核心修改：Publication / Education / Experience 标题样式 --- */
   .item-content h3 { 
     margin: 0 0 6px 0; 
-    font-size: 1.15em; 
-    color: #333; /* 加深颜色，更清晰 */
+    /* 将字体大小从 1.15em 调为 1.05em 或 1.1em */
+    font-size: 1.05em; 
+    color: #333; 
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-weight: 700; /* 粗体 */
+    /* 将字重从 700 (Bold) 降为 600 (Semi-Bold) 或 500 (Medium) */
+    font-weight: 600; 
     line-height: 1.3;
   }
   
