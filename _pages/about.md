@@ -55,7 +55,7 @@ redirect_from:
     background-color: #fcfcfc;
   }
   
-  /* 自定义滚动条样式 (现代感) */
+  /* 自定义滚动条样式 */
   .news-scroll-container::-webkit-scrollbar { width: 5px; }
   .news-scroll-container::-webkit-scrollbar-track { background: #f1f1f1; }
   .news-scroll-container::-webkit-scrollbar-thumb { background: #ccc; border-radius: 10px; }
@@ -67,10 +67,7 @@ redirect_from:
     margin: 0;
     font-size: 0.92em;
   }
-  .news-list li {
-    margin-bottom: 10px;
-    line-height: 1.4;
-  }
+  .news-list li { margin-bottom: 10px; line-height: 1.4; }
   .news-date {
     font-weight: 600;
     color: #c0392b;
@@ -78,7 +75,7 @@ redirect_from:
     font-family: "Consolas", "Monaco", monospace;
   }
 
-  /* 列表项布局 (教育、经历、论文) */
+  /* 列表项布局 (通用) */
   .item-row {
     display: flex;
     align-items: flex-start;
@@ -97,28 +94,45 @@ redirect_from:
     filter: grayscale(10%) contrast(105%);
   }
   .item-content { flex-grow: 1; }
-  .item-content h3 {
-    margin: 0 0 6px 0;
-    font-size: 1.1em;
-    color: #111;
-  }
-  .item-content p {
-    margin: 3px 0;
-    font-size: 0.92em;
-  }
-  .date-text {
-    color: #7f8c8d;
-    font-style: italic;
-    font-size: 0.88em !important;
-  }
+  .item-content h3 { margin: 0 0 6px 0; font-size: 1.1em; color: #111; }
+  .item-content p { margin: 3px 0; font-size: 0.92em; }
+  .date-text { color: #7f8c8d; font-style: italic; font-size: 0.88em !important; }
   
-  /* 会议标签高亮 */
-  .conf-tag {
+  /* 重点标记 */
+  .highlight-topic { color: #e74c3c; font-weight: bold; }
+  .conf-tag { font-weight: bold; color: #2980b9; }
+
+  /* Open-Source 科技学术感布局 (无图版) */
+  .project-item {
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-left: 3px solid #3498db;
+    background-color: #f9f9f9;
+    transition: all 0.3s ease;
+    border-radius: 0 4px 4px 0;
+  }
+  .project-item:hover {
+    background-color: #f0f7ff;
+    border-left-color: #e74c3c;
+    transform: translateX(5px);
+  }
+  .project-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 8px;
+  }
+  .project-title {
+    font-family: "Palatino", serif;
+    font-size: 1.1em;
     font-weight: bold;
-    color: #2980b9;
+    color: #2c3e50;
+    margin: 0;
   }
 
-  /* Badge 样式优化 */
+  /* Badge 样式 */
   .badge-container { margin-top: 10px; display: flex; flex-wrap: wrap; gap: 5px; }
   .badge-container img { height: 18px; }
 
@@ -129,7 +143,7 @@ redirect_from:
 
 My name is **Zhenhua Yang (杨振华, Yeung Chenwa)**. 
 
-I am an Algorithm Engineer in **Taobao & Tmall Group of [Alibaba](https://www.alibaba.com/)** (2025). 
+I am a **Full-time AIGC Algorithm Engineer** in **Taobao & Tmall Group of [Alibaba](https://www.alibaba.com/)** (2025). 
 I received my Master's degree from [SCUT-DLVCLab](https://github.com/HCIILAB) in the [School of Electronic and Information Engineering](https://www2.scut.edu.cn/ee/), [South China University of Technology](https://www.scut.edu.cn/new/), supervised by [Prof. Lianwen Jin](http://www.dlvc-lab.net/lianwen/Index.html). Previously, I received my Bachelor's degree from the [School of Automation Science and Engineering](https://www2.scut.edu.cn/automation/), SCUT in 2022.
 
 Previously, I have interned at the [Kling Team](https://klingai.com/global/) of Kuaishou (advised by [Xin Tao](https://www.xtao.website/)) and [International Digital Economy Academy (IDEA)](https://www.idea.edu.cn/) (advised by [Prof. Lei Zhang](https://www.leizhang.org/) and [Dr. Hao Zhang](https://haozhang534.github.io/)).
@@ -185,18 +199,18 @@ My research interests are focused on **AIGC, Generative Model, and Large Multi-M
   <div class="item-content">
     <h3>Alibaba - Taobao & Tmall Group</h3>
     <p class="date-text">July 2025 - Present</p>
-    <p><b>AIGC Algorithm Engineer</b></p>
-    <p>Image Generation and Editing on E-commerce Scenarios.</p>
+    <p><b>Full-time AIGC Algorithm Engineer</b></p>
+    <p>Post-Training for Image Generation and Editing.</p>
   </div>
 </div>
 
-## Internship
 <div class="item-row">
   <div class="item-logo"><img src="../my_images/experiences/kling.png" width="150"></div>
   <div class="item-content">
     <h3>KuaiShou - Kling Team</h3>
     <p class="date-text">Jan. 2025 - Apr. 2025</p>
-    <p><b>Research Intern</b>, supervised by Xin Tao. Unifying Model for Generation and Understanding.</p>
+    <p><b>Research Intern</b>, supervised by Xin Tao.</p>
+    <p><span class="highlight-topic">Topic:</span> Unifying Understanding and Generation for Next Generation Model.</p>
   </div>
 </div>
 
@@ -205,20 +219,12 @@ My research interests are focused on **AIGC, Generative Model, and Large Multi-M
   <div class="item-content">
     <h3>International Digital Economy Academy (IDEA) - CVR</h3>
     <p class="date-text">Jun. 2024 - Sep. 2024</p>
-    <p><b>Research Intern</b>, supervised by Prof. Lei Zhang. Streaming Video Captioning and Understanding.</p>
+    <p><b>Research Intern</b>, supervised by Prof. Lei Zhang.</p>
+    <p><span class="highlight-topic">Topic:</span> MLLM for Streaming Video Narration and QA.</p>
   </div>
 </div>
 
-<div class="item-row">
-  <div class="item-logo"><img src="../my_images/experiences/intsig.png" width="150"></div>
-  <div class="item-content">
-    <h3>INTSIG - CamScanner</h3>
-    <p class="date-text">Mar. 2024 - May 2024</p>
-    <p><b>Engineering Intern</b>. Editing documents in real-world scenarios.</p>
-  </div>
-</div>
-
-## Publications
+## Selected Publications [<a href='https://scholar.google.com/citations?hl=zh-CN&user=2ITs6lUAAAAJ'>Full List</a>]
 <div class="item-row">
   <div class="item-logo"><img src="../my_images/publications/HDR.png" width="150"></div>
   <div class="item-content">
@@ -262,59 +268,84 @@ My research interests are focused on **AIGC, Generative Model, and Large Multi-M
 </div>
 
 <div class="item-row">
-  <div class="item-logo"><img src="../my_images/publications/AutoHDR.png" width="150"></div>
+
+<div class="item-logo"><img src="../my_images/publications/AutoHDR.png" width="150"></div>
+
+<div class="item-content">
+
+<h3>Reviving Cultural Heritage: A Novel Approach for Comprehensive Historical Document Restoration</h3>
+
+<p>Yuyi Zhang, Peirong Zhang, <b>Zhenhua Yang* (Project Lead)</b>, et al., Lianwen Jin†</p>
+
+<p><i>Meeting of the Association for Computational Linguistics (<span class="conf-tag">ACL Main</span>), 2025</i></p>
+
+<div class="badge-container">
+
+<a href='https://arxiv.org/abs/2507.05108'><img src='https://img.shields.io/badge/paper-9cf'></a>
+
+<a href='https://github.com/SCUT-DLVCLab/AutoHDR'><img src='https://img.shields.io/github/stars/yeungchenwa/HDR.svg?style=social&label=Star'></a>
+
+<a href='http://121.41.49.212:8432/'><img src='https://img.shields.io/badge/demo-purple'></a>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="item-row">
+  <div class="item-logo"><img src="../my_images/publications/UniHIR.png" width="150"></div>
   <div class="item-content">
-    <h3>Reviving Cultural Heritage: A Novel Approach for Comprehensive Historical Document Restoration</h3>
+    <h3>Draft, Verify, Restore: Self-Refining Historical Inscription Restoration with a Unified MLLM</h3>
+    <p><span class="highlight-topic">Topic:</span> Unify Content Reasoning (Understanding) and Generation</p>
     <p>Yuyi Zhang, Peirong Zhang, <b>Zhenhua Yang* (Project Lead)</b>, et al., Lianwen Jin†</p>
-    <p><i>Meeting of the Association for Computational Linguistics (<span class="conf-tag">ACL Main</span>), 2025</i></p>
-    <div class="badge-container">
-      <a href='https://arxiv.org/abs/2507.05108'><img src='https://img.shields.io/badge/paper-9cf'></a>
-      <a href='https://github.com/SCUT-DLVCLab/AutoHDR'><img src='https://img.shields.io/github/stars/yeungchenwa/HDR.svg?style=social&label=Star'></a>
-      <a href='http://121.41.49.212:8432/'><img src='https://img.shields.io/badge/demo-purple'></a>
-    </div>
-  </div>
-</div>
-
-<hr>
-<div class="item-row">
-  <div class="item-logo"><img src="../my_images/publications/Awesome-OCR.png" width="150"></div>
-  <div class="item-content">
-    <p><b>Aesthetics is Cheap, Show me the Text: An Empirical Evaluation of State-of-the-Art Generative Models for OCR</b></p>
-    <p>Peirong Zhang, ..., <b>Zhenhua Yang</b>, ..., Lianwen Jin†. <i>Preprint 2025</i></p>
-  </div>
-</div>
-
-<div class="item-row">
-  <div class="item-logo"><img src="../my_images/publications/megahan.png" width="150"></div>
-  <div class="item-content">
-    <p><b>MegaHan97K: A Large-Scale Dataset for Mega-Category Chinese Character Recognition</b></p>
-    <p>Yuyi Zhang, ..., <b>Zhenhua Yang</b>, Lianwen Jin†. <span class="conf-tag">Pattern Recognition (PR)</span>, 2025</p>
-  </div>
-</div>
-
-<div class="item-row">
-  <div class="item-logo"><img src="../my_images/publications/HierCode.png" width="150"></div>
-  <div class="item-content">
-    <p><b>HierCode: A Lightweight Hierarchical Codebook for Zero-shot Chinese Text Recognition</b></p>
-    <p>Yuyi Zhang, ..., <b>Zhenhua Yang</b>, Lianwen Jin†. <span class="conf-tag">Pattern Recognition (PR)</span>, 2024</p>
-  </div>
-</div>
-
-<div class="item-row">
-  <div class="item-logo"><img src="../my_images/publications/CDOR.png" width="150"></div>
-  <div class="item-content">
-    <p><b>Censoring-aware deep ordinal regression for survival prediction from pathological images</b></p>
-    <p>Lichao Xiao, ..., <b>Zhenhua Yang</b>, Yuanqing Li. <span class="conf-tag">MICCAI</span>, 2020</p>
+    <p><i><b>Submitted to</b> Meeting of the Association for Computational Linguistics (<span class="conf-tag">ACL</span>), 2026</i></p>
   </div>
 </div>
 
 ## Open-Source Projects
-<div class="item-row">
-  <div class="item-logo"><img src="../my_images/projects/OCR-SAM.png" width="150"></div>
-  <div class="item-content">
-    <h3>OCR-SAM</h3>
-    <p>Applying Segment Anything (SAM) to OCR for text removal and inpainting. Includes WebUI.</p>
+
+<div class="project-item">
+  <div class="project-header">
+    <h3 class="project-title">Optical Character Recognition with Segment Anything (OCR-SAM)</h3>
     <a href='https://github.com/yeungchenwa/OCR-SAM'><img src='https://img.shields.io/github/stars/yeungchenwa/OCR-SAM.svg?style=social&label=Star'></a>
+  </div>
+  <div class="project-meta"><b>Zhenhua Yang</b>, Qing Jiang</div>
+  <div class="project-desc">
+    <span class="highlight-topic">Focus:</span> Exploring SAM's zero-shot generalization in OCR tasks. Integrated SAM with MMOCR to develop specialized application demos, including precise text removal and high-fidelity text inpainting with a Gradio-based WebUI.
+  </div>
+</div>
+
+<div class="project-item">
+  <div class="project-header">
+    <h3 class="project-title">Flexible Diffusion-based Font Generation Framework</h3>
+    <a href='https://github.com/yeungchenwa/FontDiffuser'><img src='https://img.shields.io/github/stars/yeungchenwa/FontDiffuser.svg?style=social&label=Star'></a>
+  </div>
+  <div class="project-meta"><b>Zhenhua Yang</b></div>
+  <div class="project-desc">
+    <span class="highlight-topic">Focus:</span> A robust generative framework for few-shot font stylization. Capable of synthesizing unseen characters and complex styles, supporting cross-lingual generation (e.g., Chinese to Korean) via advanced diffusion denoising.
+  </div>
+</div>
+
+<div class="project-item">
+  <div class="project-header">
+    <h3 class="project-title">Recommendations of Diffusion for Text-Image</h3>
+    <a href='https://github.com/yeungchenwa/Recommendations-Diffusion-Text-Image'><img src='https://img.shields.io/github/stars/yeungchenwa/Recommendations-Diffusion-Text-Image.svg?style=social&label=Star'></a>
+  </div>
+  <div class="project-meta"><b>Zhenhua Yang</b></div>
+  <div class="project-desc">
+    <span class="highlight-topic">Focus:</span> A curated academic collection of state-of-the-art diffusion models for text-centric visual tasks, including visual text generation, font synthesis, and scene text recognition.
+  </div>
+</div>
+
+<div class="project-item">
+  <div class="project-header">
+    <h3 class="project-title">Recommendations of Document Image Processing</h3>
+    <a href='https://github.com/ZZZHANG-jx/Recommendations-Document-Image-Processing'><img src='https://img.shields.io/github/stars/ZZZHANG-jx/Recommendations-Document-Image-Processing.svg?style=social&label=Star'></a>
+  </div>
+  <div class="project-meta">Jiaxin Zhang, <b>Zhenhua Yang</b></div>
+  <div class="project-desc">
+    <span class="highlight-topic">Focus:</span> A comprehensive survey of document image restoration techniques, covering appearance enhancement, deshadowing, dewarping, deblurring, and binarization.
   </div>
 </div>
 
@@ -324,9 +355,9 @@ My research interests are focused on **AIGC, Generative Model, and Large Multi-M
 * **American Mathematical Contest in Modeling**, Meritorious Prize, 2020
 * **Alibaba Tianchi Competition**, Top 1.2%, 2021
 
-## Blogs
+<!-- ## Blogs
 * [SAM 在 OCR 领域的可视化效果及简单分析](https://www.zhihu.com/question/593914819/answer/2976012032)
-* [2020年美赛心得](https://www.zhihu.com/question/268052818/answer/1185708631)
+* [2020年美赛心得](https://www.zhihu.com/question/268052818/answer/1185708631) -->
 
 ## Mics
 **Hobby**: 🎣 Fishing, 🏊‍♂️ Swimming, 🚲 Riding, 🏓 Table tennis, 🏀 Basketball, 🎤 Singing. Learning 🎹 Piano.  
