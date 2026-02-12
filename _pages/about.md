@@ -143,12 +143,16 @@ redirect_from:
 
 My name is **Zhenhua Yang (杨振华, Yeung Chenwa)**. 
 
-I am a **Full-time AIGC Algorithm Engineer** in **Taobao & Tmall Group of [Alibaba](https://www.alibaba.com/)** (2025). 
-I received my Master's degree from [SCUT-DLVCLab](https://github.com/HCIILAB) in the [School of Electronic and Information Engineering](https://www2.scut.edu.cn/ee/), [South China University of Technology](https://www.scut.edu.cn/new/), supervised by [Prof. Lianwen Jin](http://www.dlvc-lab.net/lianwen/Index.html). Previously, I received my Bachelor's degree from the [School of Automation Science and Engineering](https://www2.scut.edu.cn/automation/), SCUT in 2022.
+I am a Full-time Algorithm Engineer in Taobao & Tmall Group of [Alibaba](https://www.alibaba.com/) (2025). 
+I received my Master's and Bachelor's degree from [SCUT-DLVCLab](https://github.com/HCIILAB) [supervised by [Prof. Lianwen Jin](http://www.dlvc-lab.net/lianwen/Index.html)] in South China University of Technology.
 
-Previously, I have interned at the [Kling Team](https://klingai.com/global/) of Kuaishou (advised by [Xin Tao](https://www.xtao.website/)) and [International Digital Economy Academy (IDEA)](https://www.idea.edu.cn/) (advised by [Prof. Lei Zhang](https://www.leizhang.org/) and [Dr. Hao Zhang](https://haozhang534.github.io/)).
+Fortunately, I have interned at the [Kling Team](https://klingai.com/global/) (advised by [Xin Tao](https://www.xtao.website/)) and [IDEA, Shenzhen](https://www.idea.edu.cn/) (advised by [Lei Zhang](https://www.leizhang.org/) and [Hao Zhang](https://haozhang534.github.io/)).
 
-My research interests are focused on **AIGC, Generative Model, and Large Multi-Modal Models**. I am also devoted to the open-source community.
+My research interests are focused on:
+- **Post-Training for Multi-modal Generation and Editing**
+- **Unifying Understanding and Generation for Next Generation Model**
+- **Visual Text Generation and Editting**
+
 
 <div class="contact-bar">
   <a href='https://github.com/yeungchenwa'>GitHub</a>
