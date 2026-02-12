@@ -215,7 +215,7 @@ Fortunately, I have interned at the <a href="https://klingai.com/global/">Kling 
   <div class="item-logo"><img src="/my_images/SCUT_logo.png" width="100"></div>
   <div class="item-content" markdown="1">
 ### South China University of Technology
-Sep. 2022 - Present
+Sep. 2022 - 2025
 {: .date-text}
 
 M.S. Student at [SCUT-DLVCLab](https://github.com/HCIILAB), School of Electronic and Information Engineering
