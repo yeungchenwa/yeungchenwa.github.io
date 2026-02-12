@@ -104,7 +104,7 @@ redirect_from:
   .item-content h3 { 
     margin: 0 0 6px 0; 
     /* 将字体大小从 1.15em 调为 1.05em 或 1.1em */
-    font-size: 1.05em; 
+    font-size: 1.0em; 
     color: #333; 
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
     /* 将字重从 700 (Bold) 降为 600 (Semi-Bold) 或 500 (Medium) */
