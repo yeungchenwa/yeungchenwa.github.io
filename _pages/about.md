@@ -3,7 +3,7 @@ permalink: /
 title: About Me
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -16,17 +16,21 @@ redirect_from:
     line-height: 1.6;
     max-width: 900px;
     margin: 0 auto;
+    font-size: 16px;
   }
   
   .about-container h2 {
     border-bottom: 1px solid #ddd;
     padding-bottom: 8px;
     margin-top: 35px;
+    margin-bottom: 20px;
     font-variant: small-caps;
     color: #2c3e50;
     letter-spacing: 1px;
     display: block;
     width: 100%;
+    font-weight: bold;
+    font-size: 1.5em;
   }
 
   /* 个人简介联系方式 */
@@ -134,28 +138,47 @@ redirect_from:
   .badge-container { margin-top: 10px; display: flex; flex-wrap: wrap; gap: 5px; }
   .badge-container img { height: 18px; }
 
+  /* 针对 Awards 和 Mics 的列表样式修复 */
+  .custom-list {
+    padding-left: 20px;
+    margin-top: 10px;
+  }
+  .custom-list li {
+    margin-bottom: 6px;
+  }
+
   hr { border: 0; border-top: 1px solid #f0f0f0; margin: 20px 0; }
 </style>
 
-<div class="about-container" markdown="1">
+<div class="about-container">
 
-My name is **Zhenhua Yang (杨振华, Yeung Chenwa)**. 
+<p>My name is <strong>Zhenhua Yang (杨振华, Yeung Chenwa)</strong>.</p>
 
-I am a Full-time Algorithm Engineer in Taobao & Tmall Group of [Alibaba](https://www.alibaba.com/) (2025). 
-I received my Master's and Bachelor's degree from [SCUT-DLVCLab](https://github.com/HCIILAB) [supervised by [Prof. Lianwen Jin](http://www.dlvc-lab.net/lianwen/Index.html)] in South China University of Technology.
+<p>
+I am a Full-time Algorithm Engineer in Taobao & Tmall Group of <a href="https://www.alibaba.com/">Alibaba</a> (2025). 
+I received my Master's and Bachelor's degree from <a href="https://github.com/HCIILAB">SCUT-DLVCLab</a> [supervised by <a href="http://www.dlvc-lab.net/lianwen/Index.html">Prof. Lianwen Jin</a>] in South China University of Technology.
+</p>
 
-Fortunately, I have interned at the [Kling Team](https://klingai.com/global/) (advised by [Xin Tao](https://www.xtao.website/)) and [IDEA, Shenzhen](https://www.idea.edu.cn/) (advised by [Lei Zhang](https://www.leizhang.org/) and [Hao Zhang](https://haozhang534.github.io/)).
+<p>
+Fortunately, I have interned at the <a href="https://klingai.com/global/">Kling Team</a> (advised by <a href="https://www.xtao.website/">Xin Tao</a>) and <a href="https://www.idea.edu.cn/">IDEA, Shenzhen</a> (advised by <a href="https://www.leizhang.org/">Lei Zhang</a> and <a href="https://haozhang534.github.io/">Hao Zhang</a>).
+</p>
 
-My research interests are focused on:
-- **Post-Training for Multi-modal Generation and Editing**
-- **Unifying Understanding and Generation for Next Generation Model**
-- **Visual Text Generation and Editting**
+<p>My research interests are focused on:</p>
+<ul class="custom-list">
+  <li><strong>Post-Training for Multi-modal Generation and Editing</strong></li>
+  <li><strong>Unifying Understanding and Generation for Next Generation Model</strong></li>
+  <li><strong>Visual Text Generation and Editting</strong></li>
+</ul>
 
-<div class="contact-bar" markdown="1">
-[GitHub](https://github.com/yeungchenwa) | [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=2ITs6lUAAAAJ) | [Email](mailto:eezhyang@gmail.com) | [Zhihu](https://www.zhihu.com/people/young-40-31) | [LinkedIn](https://www.linkedin.com/in/zhenhua-yang-3911982b2)
+<div class="contact-bar">
+<a href="https://github.com/yeungchenwa">GitHub</a> | 
+<a href="https://scholar.google.com/citations?hl=zh-CN&user=2ITs6lUAAAAJ">Google Scholar</a> | 
+<a href="mailto:eezhyang@gmail.com">Email</a> | 
+<a href="https://www.zhihu.com/people/young-40-31">Zhihu</a> | 
+<a href="https://www.linkedin.com/in/zhenhua-yang-3911982b2">LinkedIn</a>
 </div>
 
-## News
+<h2>News</h2>
 
 <div class="news-scroll-container">
   <ul class="news-list">
@@ -172,7 +195,7 @@ My research interests are focused on:
   </ul>
 </div>
 
-## Education
+<h2>Education</h2>
 
 <div class="item-row">
   <div class="item-logo"><img src="/my_images/SCUT_logo.png" width="100"></div>
@@ -196,7 +219,7 @@ B.E. Student in School of Automation Science and Engineering
   </div>
 </div>
 
-## Experience
+<h2>Experience</h2>
 
 <div class="item-row">
   <div class="item-logo"><img src="/my_images/experiences/alibaba.png" width="150"></div>
@@ -237,7 +260,7 @@ Jun. 2024 - Sep. 2024
   </div>
 </div>
 
-## Selected Publications [[Full List](https://scholar.google.com/citations?hl=zh-CN&user=2ITs6lUAAAAJ)]
+<h2>Selected Publications <a href="https://scholar.google.com/citations?hl=zh-CN&user=2ITs6lUAAAAJ" style="font-size:0.6em; vertical-align:middle; text-decoration:none;">[Full List]</a></h2>
 
 <div class="item-row">
   <div class="item-logo"><img src="/my_images/publications/HDR.png" width="150"></div>
@@ -315,54 +338,54 @@ Yuyi Zhang, Peirong Zhang, **Zhenhua Yang* (Project Lead)**, et al., Lianwen Jin
   </div>
 </div>
 
-## Open-Source Projects
+<h2>Open-Source Projects</h2>
 
-<div class="project-item" markdown="1">
+<div class="project-item">
 <div class="project-header" markdown="1">
 ### Optical Character Recognition with Segment Anything (OCR-SAM)
 <a href='https://github.com/yeungchenwa/OCR-SAM'><img src='https://img.shields.io/github/stars/yeungchenwa/OCR-SAM.svg?style=social&label=Star'></a>
 </div>
-
-<span class="highlight-topic">Focus:</span> Exploring SAM's zero-shot generalization in OCR tasks. Integrated SAM with MMOCR to develop specialized application demos, including precise text removal and high-fidelity text inpainting with a Gradio-based WebUI.
+<p style="margin-top:5px;"><span class="highlight-topic">Focus:</span> Exploring SAM's zero-shot generalization in OCR tasks. Integrated SAM with MMOCR to develop specialized application demos, including precise text removal and high-fidelity text inpainting with a Gradio-based WebUI.</p>
 </div>
 
-<div class="project-item" markdown="1">
+<div class="project-item">
 <div class="project-header" markdown="1">
 ### Flexible Diffusion-based Font Generation Framework
 <a href='https://github.com/yeungchenwa/FontDiffuser'><img src='https://img.shields.io/github/stars/yeungchenwa/FontDiffuser.svg?style=social&label=Star'></a>
 </div>
-
-<span class="highlight-topic">Focus:</span> A robust generative framework for few-shot font stylization. Capable of synthesizing unseen characters and complex styles, supporting cross-lingual generation (e.g., Chinese to Korean) via advanced diffusion denoising.
+<p style="margin-top:5px;"><span class="highlight-topic">Focus:</span> A robust generative framework for few-shot font stylization. Capable of synthesizing unseen characters and complex styles, supporting cross-lingual generation (e.g., Chinese to Korean) via advanced diffusion denoising.</p>
 </div>
 
-<div class="project-item" markdown="1">
+<div class="project-item">
 <div class="project-header" markdown="1">
 ### Recommendations of Diffusion for Text-Image
 <a href='https://github.com/yeungchenwa/Recommendations-Diffusion-Text-Image'><img src='https://img.shields.io/github/stars/yeungchenwa/Recommendations-Diffusion-Text-Image.svg?style=social&label=Star'></a>
 </div>
-
-<span class="highlight-topic">Focus:</span> A curated academic collection of state-of-the-art diffusion models for text-centric visual tasks, including visual text generation, font synthesis, and scene text recognition.
+<p style="margin-top:5px;"><span class="highlight-topic">Focus:</span> A curated academic collection of state-of-the-art diffusion models for text-centric visual tasks, including visual text generation, font synthesis, and scene text recognition.</p>
 </div>
 
-<div class="project-item" markdown="1">
+<div class="project-item">
 <div class="project-header" markdown="1">
 ### Recommendations of Document Image Processing
 <a href='https://github.com/ZZZHANG-jx/Recommendations-Document-Image-Processing'><img src='https://img.shields.io/github/stars/ZZZHANG-jx/Recommendations-Document-Image-Processing.svg?style=social&label=Star'></a>
 </div>
-
-<span class="highlight-topic">Focus:</span> A comprehensive survey of document image restoration techniques, covering appearance enhancement, deshadowing, dewarping, deblurring, and binarization.
+<p style="margin-top:5px;"><span class="highlight-topic">Focus:</span> A comprehensive survey of document image restoration techniques, covering appearance enhancement, deshadowing, dewarping, deblurring, and binarization.</p>
 </div>
 
-## Awards
-* **Shenzhen HighPower Technology Scholarship**, 2022 (Top 2%)
-* **First-Class Campus Scholarship**, 2021 (Top 5%)
-* **American Mathematical Contest in Modeling**, Meritorious Prize, 2020
-* **Alibaba Tianchi Competition**, Top 1.2%, 2021
+<h2>Awards</h2>
+<ul class="custom-list">
+  <li><strong>Shenzhen HighPower Technology Scholarship</strong>, 2022 (Top 2%)</li>
+  <li><strong>First-Class Campus Scholarship</strong>, 2021 (Top 5%)</li>
+  <li><strong>American Mathematical Contest in Modeling</strong>, Meritorious Prize, 2020</li>
+  <li><strong>Alibaba Tianchi Competition</strong>, Top 1.2%, 2021</li>
+</ul>
 
-## Mics
-**Hobby**: 🎣 Fishing, 🏊‍♂️ Swimming, 🚲 Riding, 🏓 Table tennis, 🏀 Basketball, 🎤 Singing. Learning 🎹 Piano.  
-**Languages**: Chinese (Mandarin, Cantonese, Hakka), English.  
-**Habit**: A heavy coffee drinker ☕.
+<h2>Mics</h2>
+<p style="margin-top: 10px;">
+<strong>Hobby</strong>: 🎣 Fishing, 🏊‍♂️ Swimming, 🚲 Riding, 🏓 Table tennis, 🏀 Basketball, 🎤 Singing. Learning 🎹 Piano.<br>
+<strong>Languages</strong>: Chinese (Mandarin, Cantonese, Hakka), English.<br>
+<strong>Habit</strong>: A heavy coffee drinker ☕.
+</p>
 
 <div style="text-align: center; margin-top: 50px;">
   <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=TuVRvKdiJmKZ6t0SuQ7FsO2avdiz4cQm8yys_lX28-Q&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
