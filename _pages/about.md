@@ -322,7 +322,6 @@ Yuyi Zhang, Peirong Zhang, **Zhenhua Yang* (Project Lead)**, et al., Lianwen Jin
 ### Optical Character Recognition with Segment Anything (OCR-SAM)
 <a href='https://github.com/yeungchenwa/OCR-SAM'><img src='https://img.shields.io/github/stars/yeungchenwa/OCR-SAM.svg?style=social&label=Star'></a>
 </div>
-**Zhenhua Yang**, Qing Jiang
 
 <span class="highlight-topic">Focus:</span> Exploring SAM's zero-shot generalization in OCR tasks. Integrated SAM with MMOCR to develop specialized application demos, including precise text removal and high-fidelity text inpainting with a Gradio-based WebUI.
 </div>
@@ -332,7 +331,6 @@ Yuyi Zhang, Peirong Zhang, **Zhenhua Yang* (Project Lead)**, et al., Lianwen Jin
 ### Flexible Diffusion-based Font Generation Framework
 <a href='https://github.com/yeungchenwa/FontDiffuser'><img src='https://img.shields.io/github/stars/yeungchenwa/FontDiffuser.svg?style=social&label=Star'></a>
 </div>
-**Zhenhua Yang**
 
 <span class="highlight-topic">Focus:</span> A robust generative framework for few-shot font stylization. Capable of synthesizing unseen characters and complex styles, supporting cross-lingual generation (e.g., Chinese to Korean) via advanced diffusion denoising.
 </div>
@@ -342,7 +340,6 @@ Yuyi Zhang, Peirong Zhang, **Zhenhua Yang* (Project Lead)**, et al., Lianwen Jin
 ### Recommendations of Diffusion for Text-Image
 <a href='https://github.com/yeungchenwa/Recommendations-Diffusion-Text-Image'><img src='https://img.shields.io/github/stars/yeungchenwa/Recommendations-Diffusion-Text-Image.svg?style=social&label=Star'></a>
 </div>
-**Zhenhua Yang**
 
 <span class="highlight-topic">Focus:</span> A curated academic collection of state-of-the-art diffusion models for text-centric visual tasks, including visual text generation, font synthesis, and scene text recognition.
 </div>
@@ -352,7 +349,6 @@ Yuyi Zhang, Peirong Zhang, **Zhenhua Yang* (Project Lead)**, et al., Lianwen Jin
 ### Recommendations of Document Image Processing
 <a href='https://github.com/ZZZHANG-jx/Recommendations-Document-Image-Processing'><img src='https://img.shields.io/github/stars/ZZZHANG-jx/Recommendations-Document-Image-Processing.svg?style=social&label=Star'></a>
 </div>
-Jiaxin Zhang, **Zhenhua Yang**
 
 <span class="highlight-topic">Focus:</span> A comprehensive survey of document image restoration techniques, covering appearance enhancement, deshadowing, dewarping, deblurring, and binarization.
 </div>
