@@ -182,7 +182,7 @@ Fortunately, I have interned at the <a href="https://klingai.com/global/">Kling 
 <ul class="custom-list">
   <li><strong>Post-Training for Multi-modal Generation and Editing</strong></li>
   <li><strong>Unifying Understanding and Generation for Next Generation Model</strong></li>
-  <li><strong>Visual Text Generation and Editting</strong></li>
+  <li><strong>Visual Text Generation and Editting (Text Rendering)</strong></li>
 </ul>
 
 <div class="contact-bar">
