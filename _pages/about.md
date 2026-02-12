@@ -99,12 +99,33 @@ redirect_from:
     filter: grayscale(10%) contrast(105%);
   }
   .item-content { flex-grow: 1; }
-  .item-content h3 { margin: 0 0 6px 0; font-size: 1.1em; color: #111; }
+
+  /* --- 核心修改：Publication 标题字体样式 --- */
+  /* 强制覆盖父级 Times New Roman，使用无衬线字体 (Sans-Serif) */
+  .item-content h3 { 
+    margin: 0 0 6px 0; 
+    font-size: 1.15em; 
+    color: #333; /* 加深颜色，更清晰 */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700; /* 粗体 */
+    line-height: 1.3;
+  }
+  
   .item-content p { margin: 3px 0; font-size: 0.92em; }
   .date-text { color: #7f8c8d; font-style: italic; font-size: 0.88em !important; }
   
   .highlight-topic { color: #e74c3c; font-weight: bold; }
   .conf-tag { font-weight: bold; color: #2980b9; }
+
+  /* Project 标题样式 (保持一致性) */
+  .project-item h3, .project-header h3 {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    color: #333;
+    font-size: 1.15em;
+    margin-top: 0;
+    margin-bottom: 8px;
+  }
 
   .project-item {
     padding: 15px 20px;
@@ -126,13 +147,6 @@ redirect_from:
     flex-wrap: wrap;
     gap: 10px;
     margin-bottom: 8px;
-  }
-  .project-title {
-    font-family: "Palatino", serif;
-    font-size: 1.1em;
-    font-weight: bold;
-    color: #2c3e50;
-    margin: 0;
   }
 
   .badge-container { margin-top: 10px; display: flex; flex-wrap: wrap; gap: 5px; }
