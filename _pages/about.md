@@ -18,13 +18,15 @@ redirect_from:
     margin: 0 auto;
   }
   
-  h2 {
+  .about-container h2 {
     border-bottom: 1px solid #ddd;
     padding-bottom: 8px;
     margin-top: 35px;
     font-variant: small-caps;
     color: #2c3e50;
     letter-spacing: 1px;
+    display: block;
+    width: 100%;
   }
 
   /* 个人简介联系方式 */
@@ -55,7 +57,6 @@ redirect_from:
     background-color: #fcfcfc;
   }
   
-  /* 自定义滚动条样式 */
   .news-scroll-container::-webkit-scrollbar { width: 5px; }
   .news-scroll-container::-webkit-scrollbar-track { background: #f1f1f1; }
   .news-scroll-container::-webkit-scrollbar-thumb { background: #ccc; border-radius: 10px; }
@@ -75,7 +76,7 @@ redirect_from:
     font-family: "Consolas", "Monaco", monospace;
   }
 
-  /* 列表项布局 (通用) */
+  /* 列表项布局 */
   .item-row {
     display: flex;
     align-items: flex-start;
@@ -98,11 +99,9 @@ redirect_from:
   .item-content p { margin: 3px 0; font-size: 0.92em; }
   .date-text { color: #7f8c8d; font-style: italic; font-size: 0.88em !important; }
   
-  /* 重点标记 */
   .highlight-topic { color: #e74c3c; font-weight: bold; }
   .conf-tag { font-weight: bold; color: #2980b9; }
 
-  /* Open-Source 科技学术感布局 (无图版) */
   .project-item {
     padding: 15px 20px;
     margin-bottom: 20px;
@@ -132,14 +131,13 @@ redirect_from:
     margin: 0;
   }
 
-  /* Badge 样式 */
   .badge-container { margin-top: 10px; display: flex; flex-wrap: wrap; gap: 5px; }
   .badge-container img { height: 18px; }
 
   hr { border: 0; border-top: 1px solid #f0f0f0; margin: 20px 0; }
 </style>
 
-<div class="about-container">
+<div class="about-container" markdown="1">
 
 My name is **Zhenhua Yang (杨振华, Yeung Chenwa)**. 
 
@@ -153,16 +151,12 @@ My research interests are focused on:
 - **Unifying Understanding and Generation for Next Generation Model**
 - **Visual Text Generation and Editting**
 
-
-<div class="contact-bar">
-  <a href='https://github.com/yeungchenwa'>GitHub</a>
-  <a href='https://scholar.google.com/citations?hl=zh-CN&user=2ITs6lUAAAAJ'>Google Scholar</a>
-  <a href='mailto:eezhyang@gmail.com'>Email</a>
-  <a href='https://www.zhihu.com/people/young-40-31'>Zhihu</a>
-  <a href='https://www.linkedin.com/in/zhenhua-yang-3911982b2'>LinkedIn</a>
+<div class="contact-bar" markdown="1">
+[GitHub](https://github.com/yeungchenwa) | [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=2ITs6lUAAAAJ) | [Email](mailto:eezhyang@gmail.com) | [Zhihu](https://www.zhihu.com/people/young-40-31) | [LinkedIn](https://www.linkedin.com/in/zhenhua-yang-3911982b2)
 </div>
 
 ## News
+
 <div class="news-scroll-container">
   <ul class="news-list">
     <li><span class="news-date">05/2025</span> 🎉🎉🎉 Our work <a href="https://arxiv.org/abs/2507.05108">AutoHDR</a> is accepted by <span class="conf-tag">ACL 2025 Main</span>. I am the project leader. Code released.</li>
@@ -179,178 +173,188 @@ My research interests are focused on:
 </div>
 
 ## Education
+
 <div class="item-row">
-  <div class="item-logo"><img src="../my_images/SCUT_logo.png" width="100"></div>
-  <div class="item-content">
-    <h3>South China University of Technology</h3>
-    <p class="date-text">Sep. 2022 - Present</p>
-    <p>M.S. Student at <a href="https://github.com/HCIILAB">SCUT-DLVCLab</a>, School of Electronic and Information Engineering</p>
+  <div class="item-logo"><img src="/my_images/SCUT_logo.png" width="100"></div>
+  <div class="item-content" markdown="1">
+### South China University of Technology
+Sep. 2022 - Present
+{: .date-text}
+
+M.S. Student at [SCUT-DLVCLab](https://github.com/HCIILAB), School of Electronic and Information Engineering
   </div>
 </div>
 
 <div class="item-row">
-  <div class="item-logo"><img src="../my_images/SCUT_logo.png" width="100"></div>
-  <div class="item-content">
-    <h3>South China University of Technology</h3>
-    <p class="date-text">Sep. 2018 - Jun. 2022</p>
-    <p>B.E. Student in School of Automation Science and Engineering</p>
+  <div class="item-logo"><img src="/my_images/SCUT_logo.png" width="100"></div>
+  <div class="item-content" markdown="1">
+### South China University of Technology
+Sep. 2018 - Jun. 2022
+{: .date-text}
+
+B.E. Student in School of Automation Science and Engineering
   </div>
 </div>
 
 ## Experience
+
 <div class="item-row">
-  <div class="item-logo"><img src="../my_images/experiences/alibaba.png" width="150"></div>
-  <div class="item-content">
-    <h3>Alibaba - Taobao & Tmall Group</h3>
-    <p class="date-text">July 2025 - Present</p>
-    <p><b>Full-time AIGC Algorithm Engineer</b></p>
-    <p>Post-Training for Image Generation and Editing.</p>
+  <div class="item-logo"><img src="/my_images/experiences/alibaba.png" width="150"></div>
+  <div class="item-content" markdown="1">
+### Alibaba - Taobao & Tmall Group
+July 2025 - Present
+{: .date-text}
+
+**Full-time AIGC Algorithm Engineer**
+
+Post-Training for Image Generation and Editing.
   </div>
 </div>
 
 <div class="item-row">
-  <div class="item-logo"><img src="../my_images/experiences/kling.png" width="150"></div>
-  <div class="item-content">
-    <h3>KuaiShou - Kling Team</h3>
-    <p class="date-text">Jan. 2025 - Apr. 2025</p>
-    <p><b>Research Intern</b>, supervised by Xin Tao.</p>
-    <p><span class="highlight-topic">Topic:</span> Unifying Understanding and Generation for Next Generation Model.</p>
+  <div class="item-logo"><img src="/my_images/experiences/kling.png" width="150"></div>
+  <div class="item-content" markdown="1">
+### KuaiShou - Kling Team
+Jan. 2025 - Apr. 2025
+{: .date-text}
+
+**Research Intern**, supervised by Xin Tao.
+
+<span class="highlight-topic">Topic:</span> Unifying Understanding and Generation for Next Generation Model.
   </div>
 </div>
 
 <div class="item-row">
-  <div class="item-logo"><img src="../my_images/experiences/idea.png" width="150"></div>
-  <div class="item-content">
-    <h3>International Digital Economy Academy (IDEA) - CVR</h3>
-    <p class="date-text">Jun. 2024 - Sep. 2024</p>
-    <p><b>Research Intern</b>, supervised by Prof. Lei Zhang.</p>
-    <p><span class="highlight-topic">Topic:</span> MLLM for Streaming Video Narration and QA.</p>
+  <div class="item-logo"><img src="/my_images/experiences/idea.png" width="150"></div>
+  <div class="item-content" markdown="1">
+### International Digital Economy Academy (IDEA) - CVR
+Jun. 2024 - Sep. 2024
+{: .date-text}
+
+**Research Intern**, supervised by Prof. Lei Zhang.
+
+<span class="highlight-topic">Topic:</span> MLLM for Streaming Video Narration and QA.
   </div>
 </div>
 
-## Selected Publications [<a href='https://scholar.google.com/citations?hl=zh-CN&user=2ITs6lUAAAAJ'>Full List</a>]
-<div class="item-row">
-  <div class="item-logo"><img src="../my_images/publications/HDR.png" width="150"></div>
-  <div class="item-content">
-    <h3>Predicting the Original Appearance of Damaged Historical Documents</h3>
-    <p><b>Zhenhua Yang*</b>, Dezhi Peng*, Yongxin Shi, Yuyi Zhang, Chongyu Liu, Lianwen Jin†</p>
-    <p><i>Proc. of the AAAI Conference on Artificial Intelligence (<span class="conf-tag">AAAI Oral</span>), 2025</i></p>
-    <div class="badge-container">
-      <a href='https://arxiv.org/abs/2412.11634'><img src='https://img.shields.io/badge/paper-9cf'></a>
-      <a href='https://yeungchenwa.github.io/hdr-homepage/'><img src='https://img.shields.io/badge/project-green'></a>
-      <a href='https://github.com/yeungchenwa/HDR'><img src='https://img.shields.io/github/stars/yeungchenwa/HDR.svg?style=social&label=Star'></a>
-    </div>
-  </div>
-</div>
+## Selected Publications [[Full List](https://scholar.google.com/citations?hl=zh-CN&user=2ITs6lUAAAAJ)]
 
 <div class="item-row">
-  <div class="item-logo"><img src="../my_images/publications/FontDiffuser.png" width="150"></div>
-  <div class="item-content">
-    <h3>FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning</h3>
-    <p><b>Zhenhua Yang</b>, Dezhi Peng, Yuxin Kong, Yuyi Zhang, Cong Yao, Lianwen Jin†</p>
-    <p><i>Proc. of the AAAI Conference on Artificial Intelligence (<span class="conf-tag">AAAI</span>), 2024</i></p>
-    <div class="badge-container">
-      <a href='https://arxiv.org/abs/2312.12142'><img src='https://img.shields.io/badge/paper-9cf'></a>
-      <a href='https://yeungchenwa.github.io/fontdiffuser-homepage/'><img src='https://img.shields.io/badge/project-green'></a>
-      <a href='https://github.com/yeungchenwa/FontDiffuser'><img src='https://img.shields.io/github/stars/yeungchenwa/FontDiffuser.svg?style=social&label=Star'></a>
-      <a href='https://huggingface.co/spaces/yeungchenwa/FontDiffuser-Gradio'><img src='https://img.shields.io/badge/demo-purple'></a>
-    </div>
-  </div>
-</div>
+  <div class="item-logo"><img src="/my_images/publications/HDR.png" width="150"></div>
+  <div class="item-content" markdown="1">
+### Predicting the Original Appearance of Damaged Historical Documents
+**Zhenhua Yang***, Dezhi Peng*, Yongxin Shi, Yuyi Zhang, Chongyu Liu, Lianwen Jin†
 
-<div class="item-row">
-  <div class="item-logo"><img src="../my_images/publications/UPOCR.png" width="150"></div>
-  <div class="item-content">
-    <h3>UPOCR: Towards Unified Pixel-Level OCR Interface</h3>
-    <p>Dezhi Peng*, <b>Zhenhua Yang*</b>, Jiaxin Zhang, Chongyu Liu, Yongxin Shi, Lianwen Jin†</p>
-    <p><i>International Conference on Machine Learning (<span class="conf-tag">ICML</span>), 2024</i></p>
-    <div class="badge-container">
-      <a href='https://arxiv.org/abs/2312.02694'><img src='https://img.shields.io/badge/paper-9cf'></a>
-      <a href='https://github.com/shannanyinxiang/UPOCR'><img src='https://img.shields.io/github/stars/shannanyinxiang/UPOCR.svg?style=social&label=Star'></a>
-    </div>
-  </div>
-</div>
-
-<div class="item-row">
-
-<div class="item-logo"><img src="../my_images/publications/AutoHDR.png" width="150"></div>
-
-<div class="item-content">
-
-<h3>Reviving Cultural Heritage: A Novel Approach for Comprehensive Historical Document Restoration</h3>
-
-<p>Yuyi Zhang, Peirong Zhang, <b>Zhenhua Yang* (Project Lead)</b>, et al., Lianwen Jin†</p>
-
-<p><i>Meeting of the Association for Computational Linguistics (<span class="conf-tag">ACL Main</span>), 2025</i></p>
+*Proc. of the AAAI Conference on Artificial Intelligence (<span class="conf-tag">AAAI Oral</span>), 2025*
 
 <div class="badge-container">
-
-<a href='https://arxiv.org/abs/2507.05108'><img src='https://img.shields.io/badge/paper-9cf'></a>
-
-<a href='https://github.com/SCUT-DLVCLab/AutoHDR'><img src='https://img.shields.io/github/stars/yeungchenwa/HDR.svg?style=social&label=Star'></a>
-
-<a href='http://121.41.49.212:8432/'><img src='https://img.shields.io/badge/demo-purple'></a>
-
+<a href='https://arxiv.org/abs/2412.11634'><img src='https://img.shields.io/badge/paper-9cf'></a>
+<a href='https://yeungchenwa.github.io/hdr-homepage/'><img src='https://img.shields.io/badge/project-green'></a>
+<a href='https://github.com/yeungchenwa/HDR'><img src='https://img.shields.io/github/stars/yeungchenwa/HDR.svg?style=social&label=Star'></a>
 </div>
-
-</div>
-
+  </div>
 </div>
 
 <div class="item-row">
-  <div class="item-logo"><img src="../my_images/publications/UniHIR.png" width="150"></div>
-  <div class="item-content">
-    <h3>Draft, Verify, Restore: Self-Refining Historical Inscription Restoration with a Unified MLLM</h3>
-    <p><span class="highlight-topic">Topic:</span> Unify Content Reasoning (Understanding) and Generation</p>
-    <p>Yuyi Zhang, Peirong Zhang, <b>Zhenhua Yang* (Project Lead)</b>, et al., Lianwen Jin†</p>
-    <p><i><b>Submitted to</b> Meeting of the Association for Computational Linguistics (<span class="conf-tag">ACL</span>), 2026</i></p>
+  <div class="item-logo"><img src="/my_images/publications/FontDiffuser.png" width="150"></div>
+  <div class="item-content" markdown="1">
+### FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning
+**Zhenhua Yang**, Dezhi Peng, Yuxin Kong, Yuyi Zhang, Cong Yao, Lianwen Jin†
+
+*Proc. of the AAAI Conference on Artificial Intelligence (<span class="conf-tag">AAAI</span>), 2024*
+
+<div class="badge-container">
+<a href='https://arxiv.org/abs/2312.12142'><img src='https://img.shields.io/badge/paper-9cf'></a>
+<a href='https://yeungchenwa.github.io/fontdiffuser-homepage/'><img src='https://img.shields.io/badge/project-green'></a>
+<a href='https://github.com/yeungchenwa/FontDiffuser'><img src='https://img.shields.io/github/stars/yeungchenwa/FontDiffuser.svg?style=social&label=Star'></a>
+<a href='https://huggingface.co/spaces/yeungchenwa/FontDiffuser-Gradio'><img src='https://img.shields.io/badge/demo-purple'></a>
+</div>
+  </div>
+</div>
+
+<div class="item-row">
+  <div class="item-logo"><img src="/my_images/publications/UPOCR.png" width="150"></div>
+  <div class="item-content" markdown="1">
+### UPOCR: Towards Unified Pixel-Level OCR Interface
+Dezhi Peng*, **Zhenhua Yang***, Jiaxin Zhang, Chongyu Liu, Yongxin Shi, Lianwen Jin†
+
+*International Conference on Machine Learning (<span class="conf-tag">ICML</span>), 2024*
+
+<div class="badge-container">
+<a href='https://arxiv.org/abs/2312.02694'><img src='https://img.shields.io/badge/paper-9cf'></a>
+<a href='https://github.com/shannanyinxiang/UPOCR'><img src='https://img.shields.io/github/stars/shannanyinxiang/UPOCR.svg?style=social&label=Star'></a>
+</div>
+  </div>
+</div>
+
+<div class="item-row">
+  <div class="item-logo"><img src="/my_images/publications/AutoHDR.png" width="150"></div>
+  <div class="item-content" markdown="1">
+### Reviving Cultural Heritage: A Novel Approach for Comprehensive Historical Document Restoration
+Yuyi Zhang, Peirong Zhang, **Zhenhua Yang* (Project Lead)**, et al., Lianwen Jin†
+
+*Meeting of the Association for Computational Linguistics (<span class="conf-tag">ACL Main</span>), 2025*
+
+<div class="badge-container">
+<a href='https://arxiv.org/abs/2507.05108'><img src='https://img.shields.io/badge/paper-9cf'></a>
+<a href='https://github.com/SCUT-DLVCLab/AutoHDR'><img src='https://img.shields.io/github/stars/yeungchenwa/HDR.svg?style=social&label=Star'></a>
+<a href='http://121.41.49.212:8432/'><img src='https://img.shields.io/badge/demo-purple'></a>
+</div>
+  </div>
+</div>
+
+<div class="item-row">
+  <div class="item-logo"><img src="/my_images/publications/UniHIR.png" width="150"></div>
+  <div class="item-content" markdown="1">
+### Draft, Verify, Restore: Self-Refining Historical Inscription Restoration with a Unified MLLM
+<span class="highlight-topic">Topic:</span> Unify Content Reasoning (Understanding) and Generation
+
+Yuyi Zhang, Peirong Zhang, **Zhenhua Yang* (Project Lead)**, et al., Lianwen Jin†
+
+***Submitted to*** Meeting of the Association for Computational Linguistics (<span class="conf-tag">ACL</span>), 2026
   </div>
 </div>
 
 ## Open-Source Projects
 
-<div class="project-item">
-  <div class="project-header">
-    <h3 class="project-title">Optical Character Recognition with Segment Anything (OCR-SAM)</h3>
-    <a href='https://github.com/yeungchenwa/OCR-SAM'><img src='https://img.shields.io/github/stars/yeungchenwa/OCR-SAM.svg?style=social&label=Star'></a>
-  </div>
-  <div class="project-meta"><b>Zhenhua Yang</b>, Qing Jiang</div>
-  <div class="project-desc">
-    <span class="highlight-topic">Focus:</span> Exploring SAM's zero-shot generalization in OCR tasks. Integrated SAM with MMOCR to develop specialized application demos, including precise text removal and high-fidelity text inpainting with a Gradio-based WebUI.
-  </div>
+<div class="project-item" markdown="1">
+<div class="project-header" markdown="1">
+### Optical Character Recognition with Segment Anything (OCR-SAM)
+<a href='https://github.com/yeungchenwa/OCR-SAM'><img src='https://img.shields.io/github/stars/yeungchenwa/OCR-SAM.svg?style=social&label=Star'></a>
+</div>
+**Zhenhua Yang**, Qing Jiang
+
+<span class="highlight-topic">Focus:</span> Exploring SAM's zero-shot generalization in OCR tasks. Integrated SAM with MMOCR to develop specialized application demos, including precise text removal and high-fidelity text inpainting with a Gradio-based WebUI.
 </div>
 
-<div class="project-item">
-  <div class="project-header">
-    <h3 class="project-title">Flexible Diffusion-based Font Generation Framework</h3>
-    <a href='https://github.com/yeungchenwa/FontDiffuser'><img src='https://img.shields.io/github/stars/yeungchenwa/FontDiffuser.svg?style=social&label=Star'></a>
-  </div>
-  <div class="project-meta"><b>Zhenhua Yang</b></div>
-  <div class="project-desc">
-    <span class="highlight-topic">Focus:</span> A robust generative framework for few-shot font stylization. Capable of synthesizing unseen characters and complex styles, supporting cross-lingual generation (e.g., Chinese to Korean) via advanced diffusion denoising.
-  </div>
+<div class="project-item" markdown="1">
+<div class="project-header" markdown="1">
+### Flexible Diffusion-based Font Generation Framework
+<a href='https://github.com/yeungchenwa/FontDiffuser'><img src='https://img.shields.io/github/stars/yeungchenwa/FontDiffuser.svg?style=social&label=Star'></a>
+</div>
+**Zhenhua Yang**
+
+<span class="highlight-topic">Focus:</span> A robust generative framework for few-shot font stylization. Capable of synthesizing unseen characters and complex styles, supporting cross-lingual generation (e.g., Chinese to Korean) via advanced diffusion denoising.
 </div>
 
-<div class="project-item">
-  <div class="project-header">
-    <h3 class="project-title">Recommendations of Diffusion for Text-Image</h3>
-    <a href='https://github.com/yeungchenwa/Recommendations-Diffusion-Text-Image'><img src='https://img.shields.io/github/stars/yeungchenwa/Recommendations-Diffusion-Text-Image.svg?style=social&label=Star'></a>
-  </div>
-  <div class="project-meta"><b>Zhenhua Yang</b></div>
-  <div class="project-desc">
-    <span class="highlight-topic">Focus:</span> A curated academic collection of state-of-the-art diffusion models for text-centric visual tasks, including visual text generation, font synthesis, and scene text recognition.
-  </div>
+<div class="project-item" markdown="1">
+<div class="project-header" markdown="1">
+### Recommendations of Diffusion for Text-Image
+<a href='https://github.com/yeungchenwa/Recommendations-Diffusion-Text-Image'><img src='https://img.shields.io/github/stars/yeungchenwa/Recommendations-Diffusion-Text-Image.svg?style=social&label=Star'></a>
+</div>
+**Zhenhua Yang**
+
+<span class="highlight-topic">Focus:</span> A curated academic collection of state-of-the-art diffusion models for text-centric visual tasks, including visual text generation, font synthesis, and scene text recognition.
 </div>
 
-<div class="project-item">
-  <div class="project-header">
-    <h3 class="project-title">Recommendations of Document Image Processing</h3>
-    <a href='https://github.com/ZZZHANG-jx/Recommendations-Document-Image-Processing'><img src='https://img.shields.io/github/stars/ZZZHANG-jx/Recommendations-Document-Image-Processing.svg?style=social&label=Star'></a>
-  </div>
-  <div class="project-meta">Jiaxin Zhang, <b>Zhenhua Yang</b></div>
-  <div class="project-desc">
-    <span class="highlight-topic">Focus:</span> A comprehensive survey of document image restoration techniques, covering appearance enhancement, deshadowing, dewarping, deblurring, and binarization.
-  </div>
+<div class="project-item" markdown="1">
+<div class="project-header" markdown="1">
+### Recommendations of Document Image Processing
+<a href='https://github.com/ZZZHANG-jx/Recommendations-Document-Image-Processing'><img src='https://img.shields.io/github/stars/ZZZHANG-jx/Recommendations-Document-Image-Processing.svg?style=social&label=Star'></a>
+</div>
+Jiaxin Zhang, **Zhenhua Yang**
+
+<span class="highlight-topic">Focus:</span> A comprehensive survey of document image restoration techniques, covering appearance enhancement, deshadowing, dewarping, deblurring, and binarization.
 </div>
 
 ## Awards
@@ -358,10 +362,6 @@ My research interests are focused on:
 * **First-Class Campus Scholarship**, 2021 (Top 5%)
 * **American Mathematical Contest in Modeling**, Meritorious Prize, 2020
 * **Alibaba Tianchi Competition**, Top 1.2%, 2021
-
-<!-- ## Blogs
-* [SAM 在 OCR 领域的可视化效果及简单分析](https://www.zhihu.com/question/593914819/answer/2976012032)
-* [2020年美赛心得](https://www.zhihu.com/question/268052818/answer/1185708631) -->
 
 ## Mics
 **Hobby**: 🎣 Fishing, 🏊‍♂️ Swimming, 🚲 Riding, 🏓 Table tennis, 🏀 Basketball, 🎤 Singing. Learning 🎹 Piano.  
