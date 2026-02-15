@@ -317,7 +317,7 @@ Jun. 2024 - Sep. 2024
   <div class="item-logo"><img src="/my_images/publications/UPOCR.png" width="150"></div>
   <div class="item-content" markdown="1">
 ### UPOCR: Towards Unified Pixel-Level OCR Interface
-Dezhi Peng*, **Zhenhua Yang***, Jiaxin Zhang, Chongyu Liu, Yongxin Shi, Lianwen Jin†
+Dezhi Peng*, **Zhenhua Yang* (Equal Contribution)**, Jiaxin Zhang, Chongyu Liu, Yongxin Shi, Lianwen Jin†
 
 *International Conference on Machine Learning (<span class="conf-tag">ICML</span>), 2024*
 
