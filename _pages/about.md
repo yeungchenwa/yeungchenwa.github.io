@@ -178,7 +178,7 @@ I received my Master's and Bachelor's degree from <a href="https://github.com/HC
 <p>Fortunately, I have interned at:</p>
 <ul class="custom-list">
   <li><a href="https://klingai.com/global/">Kling Team</a> (advised by <a href="https://www.xtao.website/">Xin Tao</a>)</li>
-  <li><a href="https://www.idea.edu.cn/">IDEA, Shenzhen</a> (advised by <a href="https://www.leizhang.org/">Lei Zhang</a> and <a href="https://haozhang534.github.io/">Hao Zhang</a>)</li>
+  <li><a href="https://www.idea.edu.cn/">IDEA, Shenzhen</a> (advised by <a href="https://scholar.google.com/citations?user=fIlGZToAAAAJ&hl=en">Lei Zhang</a> and <a href="https://scholar.google.com/citations?user=B8hPxMQAAAAJ&hl=en">Hao Zhang</a>)</li>
 </ul>
 
 <p>My research interests are focused on:</p>
