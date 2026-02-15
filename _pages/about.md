@@ -174,9 +174,12 @@ I am a Full-time Algorithm Engineer in Taobao & Tmall Group of <a href="https://
 I received my Master's and Bachelor's degree from <a href="https://github.com/HCIILAB">SCUT-DLVCLab</a> [supervised by <a href="http://www.dlvc-lab.net/lianwen/Index.html">Prof. Lianwen Jin</a>] in South China University of Technology.
 </p>
 
-<p>
-Fortunately, I have interned at the <a href="https://klingai.com/global/">Kling Team</a> (advised by <a href="https://www.xtao.website/">Xin Tao</a>) and <a href="https://www.idea.edu.cn/">IDEA, Shenzhen</a> (advised by <a href="https://www.leizhang.org/">Lei Zhang</a> and <a href="https://haozhang534.github.io/">Hao Zhang</a>).
-</p>
+
+<p>Fortunately, I have interned at:</p>
+<ul class="custom-list">
+  <li><a href="https://klingai.com/global/">Kling Team</a> (advised by <a href="https://www.xtao.website/">Xin Tao</a>)</li>
+  <li><a href="https://www.idea.edu.cn/">IDEA, Shenzhen</a> (advised by <a href="https://www.leizhang.org/">Lei Zhang</a> and <a href="https://haozhang534.github.io/">Hao Zhang</a>)</li>
+</ul>
 
 <p>My research interests are focused on:</p>
 <ul class="custom-list">
