@@ -170,7 +170,7 @@ redirect_from:
 <p>My name is <strong>Zhenhua Yang (杨振华, Yeung Chenwa)</strong>.</p>
 
 <p>
-I am a Full-time Algorithm Engineer in Taobao & Tmall Group of <a href="https://www.alibaba.com/">Alibaba</a> (2025). 
+I am a Full-time Research Algorithm Engineer in Taobao & Tmall Group of <a href="https://www.alibaba.com/">Alibaba</a> (2025). 
 I received my Master's and Bachelor's degree from <a href="https://github.com/HCIILAB">SCUT-DLVCLab</a> [supervised by <a href="http://www.dlvc-lab.net/lianwen/Index.html">Prof. Lianwen Jin</a>] in South China University of Technology.
 </p>
 
@@ -248,7 +248,7 @@ July 2025 - Present
 
 **Full-time AIGC Algorithm Engineer**
 
-Post-Training for Image Generation and Editing.
+<span class="highlight-topic">Topic:</span> Post-Training for Image Generation and Editing.
   </div>
 </div>
 
@@ -279,6 +279,8 @@ Jun. 2024 - Sep. 2024
 </div>
 
 <h2>Selected Publications <a href="https://scholar.google.com/citations?hl=zh-CN&user=2ITs6lUAAAAJ" style="font-size:0.6em; vertical-align:middle; text-decoration:none;">[Full List]</a></h2>
+
+<span class="highlight-topic">Topic:</span> Text Rendering: From Character-level to Document-level Generation and Editing.
 
 <div class="item-row">
   <div class="item-logo"><img src="/my_images/publications/HDR.png" width="150"></div>
