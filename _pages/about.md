@@ -200,6 +200,8 @@ I received my Master's and Bachelor's degree from <a href="https://github.com/HC
 
 <div class="news-scroll-container">
   <ul class="news-list">
+    <li><span class="news-date">04/2026</span> 🎉🎉🎉 Our work <a href="https://yeungchenwa.github.io/">UniHIR</a> is accepted by <span class="conf-tag">ACL 2026 Main</span> and I am the leader in this project.</li>
+    <li><span class="news-date">02/2025</span> 🎉🎉🎉 Our paper <a href="https://arxiv.org/abs/2412.11634">HDR</a> is selected as the <b>Oral</b> presentation.</li>
     <li><span class="news-date">05/2025</span> 🎉🎉🎉 Our work <a href="https://arxiv.org/abs/2507.05108">AutoHDR</a> is accepted by <span class="conf-tag">ACL 2025 Main</span>. I am the project leader. Code released.</li>
     <li><span class="news-date">02/2025</span> 🎉🎉🎉 Our paper <a href="https://arxiv.org/abs/2412.11634">HDR</a> is selected as the <b>Oral</b> presentation.</li>
     <li><span class="news-date">12/2024</span> The inference code of our paper <a href="https://arxiv.org/abs/2412.11634">HDR</a> is released at <a href="https://github.com/yeungchenwa/HDR">GitHub</a>.</li>
@@ -354,7 +356,7 @@ Yuyi Zhang, Peirong Zhang, **Zhenhua Yang* (Project Lead)**, et al., Lianwen Jin
 
 ..., **Zhenhua Yang* (Project Lead)**, et al., Lianwen Jin†
 
-***Submitted to*** Meeting of the Association for Computational Linguistics (<span class="conf-tag">ACL</span>), 2026
+*Meeting of the Association for Computational Linguistics (<span class="conf-tag">ACL Main</span>), 2026*
   </div>
 </div>
 
